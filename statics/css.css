@@ -39,7 +39,7 @@ span.wpcf7-list-item-label:before,span.wpcf7-list-item-label:after{
 	display:none
 }
 div.wpcf7 .ajax-loader{
-	visibility:hidden;display:inline-block;background-image:url(//adiva.com.vn/wp-content/plugins/contact-form-7/includes/css/../../images/ajax-loader.gif);width:16px;height:16px;border:none;padding:0;margin:0 0 0 4px;vertical-align:middle
+	visibility:hidden;display:inline-block;background-image:url(/statics/img/ajax-loader.gif);width:16px;height:16px;border:none;padding:0;margin:0 0 0 4px;vertical-align:middle
 }
 div.wpcf7 .ajax-loader.is-active{
 	visibility:visible
@@ -5496,7 +5496,7 @@ table.wpsl-opening-hours,table.wpsl-opening-hours td{
 }
 
 @font-face{
-	font-family:ez-toc-icomoon;src:url(//adiva.com.vn/wp-content/plugins/easy-table-of-contents/vendor/icomoon/fonts/ez-toc-icomoon.eot?-5j7dhv);src:url(//adiva.com.vn/wp-content/plugins/easy-table-of-contents/vendor/icomoon/fonts/ez-toc-icomoon.eot?#iefix-5j7dhv) format('embedded-opentype'),url(//adiva.com.vn/wp-content/plugins/easy-table-of-contents/vendor/icomoon/fonts/ez-toc-icomoon.ttf?-5j7dhv) format('truetype'),url(//adiva.com.vn/wp-content/plugins/easy-table-of-contents/vendor/icomoon/fonts/ez-toc-icomoon.woff?-5j7dhv) format('woff'),url(//adiva.com.vn/wp-content/plugins/easy-table-of-contents/vendor/icomoon/fonts/ez-toc-icomoon.svg?-5j7dhv#ez-toc-icomoon) format('svg');font-weight:400;font-style:normal
+	font-family:ez-toc-icomoon;src:url(/statics/ez-toc-icomoon.eot?-5j7dhv);src:url(/statics/ez-toc-icomoon.eot?#iefix-5j7dhv) format('embedded-opentype'),url(//adiva.com.vn/wp-content/plugins/easy-table-of-contents/vendor/icomoon/fonts/ez-toc-icomoon.ttf?-5j7dhv) format('truetype'),url(/statics/ez-toc-icomoon.woff?-5j7dhv) format('woff'),url(/statics/ez-toc-icomoon.svg?-5j7dhv#ez-toc-icomoon) format('svg');font-weight:400;font-style:normal
 }
 
 
@@ -5674,7 +5674,7 @@ div#ez-toc-container ul.ez-toc-list a:visited{
 }
 
 @font-face{
-	font-family:'icomoon';src:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../fonts/icomoon.eot?36mzgn);src:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../fonts/icomoon.eot?36mzgn#iefix) format('embedded-opentype'),url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../fonts/icomoon.ttf?36mzgn) format('truetype'),url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../fonts/icomoon.woff?36mzgn) format('woff'),url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../fonts/icomoon.svg?36mzgn#icomoon) format('svg');font-weight:400;font-style:normal
+	font-family:'icomoon';src:url(/statics/icomoon.eot?36mzgn);src:url(/statics/icomoon.eot?36mzgn#iefix) format('embedded-opentype'),url(/statics/icomoon.ttf?36mzgn) format('truetype'),url(/statics/icomoon.woff?36mzgn) format('woff'),url(/statics/icomoon.svg?36mzgn#icomoon) format('svg');font-weight:400;font-style:normal
 }
 [class^=icon-],[class*=" icon-"]{
 	font-family:'icomoon';speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale
@@ -13524,7 +13524,7 @@ section[class^="s"]{
 	width:100%;float:left;clear:both
 }
 .btn-cta{
-	background:#9e0b0f;color:#fff;border-radius:12px;padding:8px 30px;text-align:center;margin-top:15px;display:inline-block;font-size:1.5rem
+	background:#ab3e97;color:#fff;border-radius:12px;padding:8px 30px;text-align:center;margin-top:15px;display:inline-block;font-size:1.5rem
 }
 .btn-cta:hover{
 	opacity:.85
@@ -13536,7 +13536,7 @@ section[class^="s"]{
 	font-family:'Playfair Display', serif;font-size:5rem;color:#ab3e97;font-weight:700;line-height:1
 }
 .s1{
-	width:100%;float:left;margin-top:-2px;margin-bottom:0;background-image:url(/statics/img/bg1.webp);background-repeat:no-repeat;background-position:center;background-size:cover
+	width:100%;float:left;margin-top:-2px;margin-bottom:0;background-image:url(/statics/img/bg/bg1.webp);background-repeat:no-repeat;background-position:center;background-size:cover
 }
 .s1 .heading-title{
 	margin-top:20px;font-size:4.5rem;margin-bottom:-15px
@@ -13579,7 +13579,7 @@ section[class^="s"]{
 	margin-top:6rem
 }
 .s2{
-	position:relative;width:100%;float:left;background-image:url(/statics/img/bg2.webp);background-repeat:no-repeat;background-position:center;background-size:cover
+	position:relative;width:100%;float:left;background-image:url(/statics/img/bg/bg2.webp);background-repeat:no-repeat;background-position:center;background-size:cover
 }
 .s2 .left{
 	text-align:right
@@ -13639,7 +13639,7 @@ section[class^="s"]{
 	max-width:580px
 }
 .s3{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/bg3.jpg)
+	background-image:url(/statics/img/bg/bg3.jpg)
 }
 .s3 .head-wrap{
 	position:relative
@@ -13702,7 +13702,7 @@ section[class^="s"]{
 	display:block;width:100%;height:auto
 }
 .s4{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/bg4.jpg?v=1.08);background-repeat:no-repeat;background-size:cover
+	background-image:url(/statics/img/bg/bg2.webp);background-repeat:no-repeat;background-size:cover
 }
 .s4 .graphic-wrap .row,.s4 .graphic-wrap .item{
 	min-height:800px
@@ -13807,16 +13807,16 @@ section[class^="s"]{
 	width:100%;z-index:10;font-family:'Playfair Display', serif;font-size:3rem;font-weight:400;line-height:1;margin-bottom:15px
 }
 .s4 h2.h-title span,.s4 h2.h-title b{
-	font-family:'Playfair Display', serif;font-size:3rem;color:#9e0b0f;line-height:1
+	font-family:'Playfair Display', serif;font-size:3rem;color:#ab3e97;line-height:1
 }
 .s4 .bg{
 	position:absolute;width:100%
 }
 .s4 .bg1{
-	height:400px;background:#f5dac7
+	height:400px;background:#ead0e5
 }
 .s4 .bg2{
-	height:400px;background:#f9dfce;top:400px
+	height:400px;background:#ead0e5;top:400px
 }
 .s4 .content-wrap sup{
 	font-size:10px
@@ -13840,7 +13840,7 @@ section[class^="s"]{
 	text-align:center;margin-top:10rem
 }
 .s5 .head .title-h,.s5 .head .title-h em,.s5 .head .title-h b,.s5 .head .title-h span{
-	color:#9e0b0f;font-size:6rem
+	color:#ab3e97;font-size:6rem
 }
 .s5 .head .title-h span{
 	display:block;font-size:2.5rem;text-transform:uppercase;margin-top:-15px
@@ -13858,13 +13858,13 @@ section[class^="s"]{
 	padding-bottom:60px
 }
 .s7 .head-t,.s8 .head-t,.s9 .head-t{
-	width:579px;height:301px;background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/pattern12.png?v=1.08);background-repeat:no-repeat;background-size:cover;position:relative
+	width:579px;height:301px;background-image:url(/statics/img/bg/pattern12.png);background-repeat:no-repeat;background-size:cover;position:relative
 }
 .s7 .head-t .t,.s8 .head-t .t,.s9 .head-t .t{
 	width:250px;height:330px;text-align:center;vertical-align:middle;position:absolute;left:50%;top:0;transform:translate(-50%,-35%);background:#fff;line-height:395px
 }
 .s7 .head-t span,.s8 .head-t span,.s9 .head-t span{
-	display:inline-block;font-family:'Playfair Display', serif;font-size:3rem;color:#9e0b0f;font-weight:700;line-height:1
+	display:inline-block;font-family:'Playfair Display', serif;font-size:3rem;color:#ab3e97;font-weight:700;line-height:1
 }
 .s7 .head-t span label,.s8 .head-t span label,.s9 .head-t span label{
 	display:block;font-family:'Playfair Display', serif;font-size:3rem;font-weight:400
@@ -13885,10 +13885,10 @@ section[class^="s"]{
 	display:block;font-family:'Playfair Display', serif;font-size:3rem;font-weight:400
 }
 .s10 .head-t{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/bg-title.png?v=1.08);background-repeat:no-repeat;min-height:85px;line-height:85px;margin-top:6rem
+	background-image:url(/statics/img/bg/bg-title.webp);background-repeat:no-repeat;min-height:85px;line-height:85px;margin-top:6rem
 }
 .s10 .head-t.item2{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/bg-title-r.png?v=1.08);margin-top:12rem
+	background-image:url(/statics/img/bg/bg-title-r.webp);margin-top:12rem
 }
 .s10 .head-t span{
 	font-family:'Playfair Display', serif;font-size:2.2rem;font-weight:700;color:#fff;padding-left:35px;line-height:85px
@@ -13903,10 +13903,10 @@ section[class^="s"]{
 	font-size:1.6rem
 }
 .s10 ul li:before{
-	content:"";width:10px;height:10px;margin-right:15px;border-radius:50%;display:inline-block;vertical-align:middle;background-color:#9e0b0f
+	content:"";width:10px;height:10px;margin-right:15px;border-radius:50%;display:inline-block;vertical-align:middle;background-color:#ab3e97
 }
 .s11{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/pattern2.png?v=1.08)
+	background-image:url(/statics/img/bg/pattern2.png)
 }
 .s11 .img img{
 	display:block;width:100%;height:auto
@@ -13954,7 +13954,7 @@ section[class^="s"]{
 	display:inline-block;width:210px;height:210px;line-height:210px;vertical-align:middle;border:10px solid #fdc689;border-radius:50%;font-family:'Playfair Display', serif;font-size:4rem;font-style:italic
 }
 .s12 .item h4,.s12 .item h4 label{
-	font-family:'Playfair Display', serif;font-size:2.2rem;color:#9e0b0f;line-height:1
+	font-family:'Playfair Display', serif;font-size:2.2rem;color:#ab3e97;line-height:1
 }
 .s12 .item h4{
 	margin:30px 0
@@ -14038,7 +14038,7 @@ section[class^="s"]{
 	padding:30px 60px
 }
 .s20{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/pattern2-small.png?v=1.08);padding:50px 0
+	background-image:url(/statics/img/bg/pattern2-small.png);padding:50px 0
 }
 .s20 .heading-title{
 	font-weight:400;font-size:4rem
@@ -14068,10 +14068,19 @@ section[class^="s"]{
 	display:block;color:#be0c12;font-size:100px;font-style:italic;line-height:1
 }
 .s20 .box-w span.f3{
-	color:#be0c12;font-size:36px
+	color:#be0c12;font-size:32px;line-height:2
+}
+
+.s20 .item4 {
+	display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    overflow: hidden
 }
 .s20 .item4 img{
-	max-height:540px
+	flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
 }
 .s20 .item{
 	min-height:540px;position:relative
@@ -14080,7 +14089,7 @@ section[class^="s"]{
 	position:absolute;bottom:0;background:#eb8d00;border-radius:20px;padding:30px;width:91.5%;box-sizing:border-box
 }
 .s20 .item .box h4{
-	color:#9e0b0f;font-family:'Playfair Display', serif;font-size:2.5rem;position:absolute;text-align:center;top:-4rem;left:0;width:100%
+	color:#ab3e97;font-family:'Playfair Display', serif;font-size:2.5rem;position:absolute;text-align:center;top:-4rem;left:0;width:100%
 }
 .s20 .item .box h5{
 	color:#fff;font-size:1.5rem;margin-bottom:15px;text-transform:uppercase
@@ -14104,7 +14113,7 @@ section[class^="s"]{
 	max-width:200px;display:block;margin:0 auto 15px
 }
 .s21 .item h4{
-	font-weight:700;margin-bottom:15px;color:#9e0b0f
+	font-weight:700;margin-bottom:15px;color:#ab3e97
 }
 .s21 .item p{
 	font-size:14px
@@ -14224,7 +14233,7 @@ section[class^="s"]{
 	font-size:24px;line-height:1.2
 }
 .s21 .desc span{
-	color:#9e0b0f
+	color:#ab3e97
 }
 @media (min-width:1600px){
 	.container-fluid{
@@ -14732,7 +14741,7 @@ section h1{
 	width:80%;margin:0 auto
 }
 .s10 .head-t.item2{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/bg-title.png?v=1.08);margin-top:0
+	background-image:url(/statics/img/bg/bg-title.webp);margin-top:0
 }
 .s10 .head-t.item2 span{
 	text-align:left
@@ -14954,10 +14963,11 @@ section h1{
 	border-radius:10px
 }
 .s20 .item .box,.s20 .item .box h4{
-	position:unset
+	position:unset;
+	width:100%;
 }
 .s20 .item4 img{
-	max-height:440px;margin:15px auto
+	margin:15px auto
 }
 .s21{
 	padding:60px 15px
