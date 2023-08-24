@@ -81,13 +81,13 @@ div.wpcf7 .wpcf7-submit:disabled{
 	background-position:0 0
 }
 .kk-star-ratings .kksr-star.gray{
-	background-image:url(//adiva.com.vn/wp-content/plugins/kk-star-ratings/gray.png)
+	background-image:url(/statics/img/gray.png)
 }
 .kk-star-ratings .kksr-star.yellow{
-	background-image:url(//adiva.com.vn/wp-content/plugins/kk-star-ratings/yellow.png)
+	background-image:url(/statics/img/yellow.png)
 }
 .kk-star-ratings .kksr-star.orange{
-	background-image:url(//adiva.com.vn/wp-content/plugins/kk-star-ratings/orange.png)
+	background-image:url(/statics/img/orange.png)
 }
 .kk-star-ratings .kksr-stars .kksr-fuel{
 	height:24px;position:absolute;top:0;left:0;z-index:0
@@ -195,7 +195,7 @@ div[id^=bwg_container] div[id^=bwg_container] .bwg_img_clear{
 
 }
 .bwg_spider_popup_loading,.footer-list-block .bwp_gallery .bwg_spider_popup_loading,.footer-list-block .bwp_gallery_tags .bwg_spider_popup_loading{
-	background-image:url(//adiva.com.vn/wp-content/plugins/photo-gallery/css/../images/ajax_loader.gif);background-color:rgba(0,0,0,0);background-repeat:no-repeat;background-position:0 0;background-size:30px 30px;border:none !important;display:none;height:30px;left:50%;margin-left:-20px;margin-top:-20px;overflow:hidden;position:fixed;top:50%;width:30px;z-index:10102
+	background-image:url(/statics/img/ajax-loader.gif);background-color:rgba(0,0,0,0);background-repeat:no-repeat;background-position:0 0;background-size:30px 30px;border:none !important;display:none;height:30px;left:50%;margin-left:-20px;margin-top:-20px;overflow:hidden;position:fixed;top:50%;width:30px;z-index:10102
 }
 .bwg_filmstrip_thumbnail_img{
 	max-width:none !important
@@ -225,13 +225,13 @@ div[id^=bwg_container] div[id^=bwg_container] .bwg_img_clear{
 	left:auto;right:20px
 }
 #spider_popup_left,#spider_popup_right{
-	background:transparent url(//adiva.com.vn/wp-content/plugins/photo-gallery/css/../images/blank.gif) repeat scroll 0 0;bottom:35%;cursor:pointer;display:inline;height:30%;outline:medium none;position:absolute;width:35%;z-index:10130
+	background:transparent url(/statics/img/blank.gif) repeat scroll 0 0;bottom:35%;cursor:pointer;display:inline;height:30%;outline:medium none;position:absolute;width:35%;z-index:10130
 }
 #spider_popup_left-ico,#spider_popup_right-ico{
 	-moz-box-sizing:border-box;box-sizing:border-box;cursor:pointer;display:table;line-height:0;margin-top:-15px;position:absolute;top:50%;z-index:10135
 }
 .bwg_captcha_refresh{
-	background-image:url(//adiva.com.vn/wp-content/plugins/photo-gallery/css/../images/captcha_refresh.png);background-position:center center;background-repeat:no-repeat;background-size:100% 100%;border-width:0;cursor:pointer;display:inline-block;height:20px;width:20px;margin:0;padding:0;vertical-align:middle
+	background-image:url(/statics/img/captcha_refresh.png);background-position:center center;background-repeat:no-repeat;background-size:100% 100%;border-width:0;cursor:pointer;display:inline-block;height:20px;width:20px;margin:0;padding:0;vertical-align:middle
 }
 .bwg_captcha_input{
 	vertical-align:middle;width:75px !important
@@ -320,7 +320,7 @@ div[id^=bwg_container] .bwg_download_gallery a:hover{
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 @font-face{
-	font-family:'FontAwesome';src:url(//adiva.com.vn/wp-content/plugins/photo-gallery/css/font-awesome/fonts/fontawesome-webfont.eot?v=4.6.3);src:url(//adiva.com.vn/wp-content/plugins/photo-gallery/css/font-awesome/fonts/fontawesome-webfont.eot?#iefix&v=4.6.3) format('embedded-opentype'),url(//adiva.com.vn/wp-content/plugins/photo-gallery/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(//adiva.com.vn/wp-content/plugins/photo-gallery/css/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(//adiva.com.vn/wp-content/plugins/photo-gallery/css/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(//adiva.com.vn/wp-content/plugins/photo-gallery/css/font-awesome/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');font-weight:400;font-style:normal
+	font-family:'FontAwesome';src:url(/statics/fonts/fontawesome-webfont.eot?v=4.6.3);src:url(/statics/fonts/fontawesome-webfont.eot?#iefix&v=4.6.3) format('embedded-opentype'),url(/statics/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(/statics/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(/statics/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(/statics/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');font-weight:400;font-style:normal
 }
 #spider_popup_wrap .fa,div[id^=bwg_container] .fa,#bwg_rotate_image .fa{
 	display:inline-block;font-family:FontAwesome !important;font-style:normal;font-weight:400;text-rendering:auto;line-height:1 !important;-webkit-font-smoothing:antialiased !important;-moz-osx-font-smoothing:grayscale !important
@@ -4973,7 +4973,7 @@ to{
 	clear:both
 }
 @font-face{
-	font-family:wpsl-fontello;src:url(//adiva.com.vn/wp-content/plugins/wp-store-locator/css/../font/fontello.eot?28897909);src:url(//adiva.com.vn/wp-content/plugins/wp-store-locator/css/../font/fontello.eot?28897909#iefix) format('embedded-opentype'),url(//adiva.com.vn/wp-content/plugins/wp-store-locator/css/../font/fontello.woff?28897909) format('woff'),url(//adiva.com.vn/wp-content/plugins/wp-store-locator/css/../font/fontello.ttf?28897909) format('truetype'),url(//adiva.com.vn/wp-content/plugins/wp-store-locator/css/../font/fontello.svg?28897909#fontello) format('svg');font-weight:400;font-style:normal
+	font-family:wpsl-fontello;src:url(/statics/fonts/fontello.eot?28897909);src:url(/statics/fonts/fontello.eot?28897909#iefix) format('embedded-opentype'),url(/statics/fonts/fontello.woff?28897909) format('woff'),url(/statics/fonts/fontello.ttf?28897909) format('truetype'),url(/statics/fonts/fontello.svg?28897909#fontello) format('svg');font-weight:400;font-style:normal
 }
 #wpsl-gmap{
 	float:right;width:66.5%;height:350px;margin-bottom:0
@@ -5496,7 +5496,7 @@ table.wpsl-opening-hours,table.wpsl-opening-hours td{
 }
 
 @font-face{
-	font-family:ez-toc-icomoon;src:url(/statics/ez-toc-icomoon.eot?-5j7dhv);src:url(/statics/ez-toc-icomoon.eot?#iefix-5j7dhv) format('embedded-opentype'),url(//adiva.com.vn/wp-content/plugins/easy-table-of-contents/vendor/icomoon/fonts/ez-toc-icomoon.ttf?-5j7dhv) format('truetype'),url(/statics/ez-toc-icomoon.woff?-5j7dhv) format('woff'),url(/statics/ez-toc-icomoon.svg?-5j7dhv#ez-toc-icomoon) format('svg');font-weight:400;font-style:normal
+	font-family:ez-toc-icomoon;src:url(/statics/fonts/ez-toc-icomoon.eot?-5j7dhv);src:url(/statics/fonts/ez-toc-icomoon.eot?#iefix-5j7dhv) format('embedded-opentype'),url(/statics/fonts/ez-toc-icomoon.ttf?-5j7dhv) format('truetype'),url(/statics/fonts/ez-toc-icomoon.woff?-5j7dhv) format('woff'),url(/statics/fonts/ez-toc-icomoon.svg?-5j7dhv#ez-toc-icomoon) format('svg');font-weight:400;font-style:normal
 }
 
 
@@ -5858,7 +5858,7 @@ div#ez-toc-container ul.ez-toc-list a:visited{
 	-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-tap-highlight-color:rgba(0,0,0,0)
 }
 .grabbing{
-	cursor:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/grabbing.png) 8 8,move
+	cursor:url(/statics/grabbing.png) 8 8,move
 }
 .owl-carousel .owl-wrapper,.owl-carousel .owl-item{
 	-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0)
@@ -5889,19 +5889,19 @@ div#ez-toc-container ul.ez-toc-list a:visited{
 	position:absolute;bottom:30px;right:0
 }
 .owl-prev{
-	font-size:0px;background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/prev.png) no-repeat center;width:48px;height:48px;opacity:.5;float:left;margin-left:15px
+	font-size:0px;background:url(/statics/img/prev.png) no-repeat center;width:48px;height:48px;opacity:.5;float:left;margin-left:15px
 }
 .owl-next{
-	font-size:0px;background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/next.png) no-repeat center;width:48px;height:48px;float:right;opacity:.5;margin-right:15px
+	font-size:0px;background:url(/statics/img/next.png) no-repeat center;width:48px;height:48px;float:right;opacity:.5;margin-right:15px
 }
 .home .owl-prev:hover,.home .owl-next:hover{
 	background-color:rgba(255,255,255,.5);border-radius:50%
 }
 #news .owl-next,#owl-demo-camnhan .owl-next,#owl-demo_nghe_micell .owl-next{
-	background:#e8e8e8 url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/next2.png) no-repeat center;padding:10px;opacity:.5;text-indent:-9999px
+	background:#e8e8e8 url(/statics/img/next2.png) no-repeat center;padding:10px;opacity:.5;text-indent:-9999px
 }
 #news .owl-prev,#owl-demo-camnhan .owl-prev,#owl-demo_nghe_micell .owl-prev{
-	background:#e8e8e8 url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/prev2.png) no-repeat center;padding:10px;opacity:.5;text-indent:-9999px
+	background:#e8e8e8 url(/statics/img/prev2.png) no-repeat center;padding:10px;opacity:.5;text-indent:-9999px
 }
 #owl-demo-camnhan .owl-page span{
 	background:#adadad
@@ -5931,7 +5931,7 @@ div#ez-toc-container ul.ez-toc-list a:visited{
 	height:auto;width:auto;color:#fff;padding:2px 10px;font-size:12px;-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px
 }
 .owl-item.loading{
-	min-height:150px;background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/AjaxLoader.gif) no-repeat center center
+	min-height:150px;background:url(/statics/img/ajax-loader.gif) no-repeat center center
 }
 
 .owl-origin{
@@ -6411,16 +6411,16 @@ header nav span.icon-call-answer{
 	margin-bottom:50px
 }
 #owl-demo2 .owl-prev,#owl-demo3 .owl-prev,#owl-demo4 .owl-prev{
-	background:#e8e8e8 url(//adiva.com.vn/wp-content/themes/adiva/assets/images/prev2.png) no-repeat center;padding:10px
+	background:#e8e8e8 url(/statics/img/prev2.png) no-repeat center;padding:10px
 }
 #owl-demo2 .owl-prev:hover,#owl-demo3 .owl-prev:hover,#owl-demo4 .owl-prev:hover{
-	background:#dedede url(//adiva.com.vn/wp-content/themes/adiva/assets/images/prev2.png) no-repeat center
+	background:#dedede url(/statics/img/prev2.png) no-repeat center
 }
 #owl-demo2 .owl-next,#owl-demo3 .owl-next,#owl-demo4 .owl-next{
-	background:#e8e8e8 url(//adiva.com.vn/wp-content/themes/adiva/assets/images/next2.png) no-repeat center;padding:10px
+	background:#e8e8e8 url(/statics/img/next2.png) no-repeat center;padding:10px
 }
 #owl-demo2 .owl-next:hover,#owl-demo3 .owl-next:hover,#owl-demo4 .owl-next:hover{
-	background:#dedede url(//adiva.com.vn/wp-content/themes/adiva/assets/images/next2.png) no-repeat center
+	background:#dedede url(/statics/img/next2.png) no-repeat center
 }
 #owl-demo2 .title_adiva,#owl-demo3 .title_adiva,#owl-demo4 .title_adiva{
 	float:left;width:100%;text-align:center
@@ -8517,7 +8517,7 @@ p.txt_camnhan{
 	float:left;margin:0 0 0 10px
 }
 #bg_think_post{
-	float:left;width:100%;background:url(//adiva.com.vn/wp-content/themes/adiva/assets/images/bg_think.jpg) no-repeat bottom center;margin-top:40px;border-bottom:10px solid #000
+	float:left;width:100%;background:url(/statics/img/bg_think.jpg) no-repeat bottom center;margin-top:40px;border-bottom:10px solid #000
 }
 .title_think h2{
 	text-align:center;width:100%;font-weight:400;font-size:20px;line-height:24px;margin:50px 0 0;float:left
@@ -9097,7 +9097,7 @@ img{
 	max-width:100%
 }
 @font-face{
-	font-family:'SFU Machine';src:url(//adiva.com.vn/wp-content/themes/adiva/assets/images/single/trieu-chung-viem-loet-da-day/../../../fonts/SFUMachine.eot);src:url(//adiva.com.vn/wp-content/themes/adiva/assets/images/single/trieu-chung-viem-loet-da-day/../../../fonts/SFUMachine.eot?#iefix) format('embedded-opentype'),url(//adiva.com.vn/wp-content/themes/adiva/assets/images/single/trieu-chung-viem-loet-da-day/../../../fonts/SFUMachine.woff) format('woff'),url(//adiva.com.vn/wp-content/themes/adiva/assets/images/single/trieu-chung-viem-loet-da-day/../../../fonts/SFUMachine.ttf) format('truetype');font-weight:400;font-style:normal
+	font-family:'SFU Machine';src:url(/statics/fonts/SFUMachine.eot);src:url(/statics/fonts/SFUMachine.eot?#iefix) format('embedded-opentype'),url(/statics/fonts/SFUMachine.woff) format('woff'),url(/statics/fonts/SFUMachine.ttf) format('truetype');font-weight:400;font-style:normal
 }
 #d_bodycontent{
 	float:left;width:100%;margin:0 0 20px
@@ -9556,7 +9556,7 @@ img{
 	float:left;width:100%
 }
 .bg_adivawhite2{
-	float:left;position:relative;margin-bottom:40px;width:100%;height:573px;background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/bg_adivawhite2.png) no-repeat center
+	float:left;position:relative;margin-bottom:40px;width:100%;height:573px;background:url(/statics/img/bg_adivawhite2.png) no-repeat center
 }
 .bg_adivawhite2 .box_adivawhite{
 	float:left;width:50%;margin-left:60px;margin-top:15%
@@ -9580,16 +9580,16 @@ img{
 	font-size:28px;float:left;margin-bottom:10px;font-weight:400;text-transform:uppercase;width:100%
 }
 .box_adivawhite .owl-prev{
-	font-size:0px;background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/icon_prev_click_adivawhite_1.png) no-repeat top left !important;width:44px;height:46px;float:left;margin-left:-60px;opacity:1
+	font-size:0px;background:url(/statics/img/icon_prev_click.png) no-repeat top left !important;width:44px;height:46px;float:left;margin-left:-60px;opacity:1
 }
 .box_adivawhite .owl-next{
-	font-size:0px;background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/icon_next_click_adivawhite_1.png) no-repeat top left !important;width:44px;height:46px;opacity:1
+	font-size:0px;background:url(/statics/img/icon_next_click.png) no-repeat top left !important;width:44px;height:46px;opacity:1
 }
 .box_adivawhite .owl-next:hover{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/icon_next_click_adivawhite.png) no-repeat top left !important
+	background:url(/statics/img/icon_next_click.png) no-repeat top left !important
 }
 .box_adivawhite .owl-prev:hover{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/icon_prev_click_adivawhite.png) no-repeat top left !important
+	background:url(/statics/img/icon_prev_click.png) no-repeat top left !important
 }
 .box_adivawhite .owl-pagination{
 	width:100px;margin:auto;position:relative;right:auto;margin-top:20px
@@ -9625,10 +9625,10 @@ img{
 	float:left;width:90%;line-height:23px;text-align:justify
 }
 .bg_adivawhite3{
-	float:left;position:relative;margin:40px 0;width:100%;height:573px;background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/bg_adiva_white3.png) no-repeat center
+	float:left;position:relative;margin:40px 0;width:100%;height:573px;background:url(/statics/img/bg_white3.png) no-repeat center
 }
 .thanhphan{
-	float:left;position:relative;width:100%;height:469px;background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/bg_adivawhite3.png) no-repeat center
+	float:left;position:relative;width:100%;height:469px;background:url(/statics/img/bg_white3_mobile.png) no-repeat center
 }
 .thanhphan h2{
 	float:left;width:100%;text-align:center;font-size:40px;margin-top:60px;color:#fff;margin-bottom:20px;font-weight:400;text-transform:uppercase;margin-bottom:20px;font-family:'Playfair Display', serif
@@ -9702,13 +9702,13 @@ img{
 
 @media (max-width:1920px){
 	.section_adiva_white_cd{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/white_bg_page2_pc_1920.jpg) no-repeat left top;height:400px
+	background:url(/statics/img/white_bg_page2_pc_1920.jpg) no-repeat left top;height:400px
 }
 .postid-63395 .section_adiva_white_cd{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/white-vien-1-1920a.jpg) no-repeat left top;height:400px
+	background:url(/statics/img/white-vien-1-1920a.jpg) no-repeat left top;height:400px
 }
 .postid-63395 .section_adiva_white_2{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/white-vien-2-1920a.jpg) no-repeat center top;height:500px;width:100%;float:left;margin-top:30px;background-size:cover
+	background:url(/statics/img/white-vien-2-1920a.jpg) no-repeat center top;height:500px;width:100%;float:left;margin-top:30px;background-size:cover
 }
 
 }
@@ -9717,10 +9717,10 @@ img{
 	margin-top:8%
 }
 .section_adiva_white_cd{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/white_bg_page2_pc.jpg) no-repeat left top;height:400px
+	background:url(/statics/img/white_bg_page2_pc.jpg) no-repeat left top;height:400px
 }
 .postid-63395 .section_adiva_white_cd{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/white-vien-1a.jpg) no-repeat left top;height:400px
+	background:url(/statics/img/white-vien-1a.jpg) no-repeat left top;height:400px
 }
 .container_white{
 	width:900px !important;position:relative
@@ -9756,13 +9756,13 @@ img.uudiem_new_container{
 	margin-top:30px
 }
 .section_adiva_white_6{
-	background:#f8bac7 url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/hd_whiteadiva_tablet.jpg) no-repeat center top;background-size:cover
+	background:#f8bac7 url(/statics/img/white_bg_page2_pc.jpg) no-repeat center top;background-size:cover
 }
 .postid-63395 .section_adiva_white_6{
-	background:#f8bac7 url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/white-vien-5.jpg) no-repeat center top;background-size:cover
+	background:#f8bac7 url(/statics/img/white-vien-5.jpg) no-repeat center top;background-size:cover
 }
 .section_adiva_white_cd{
-	background:#f8bac7 url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/white_bg_page2_tablet.jpg) no-repeat left top
+	background:#f8bac7 url(/statics/img/bg_white2.png) no-repeat left top
 }
 .white_adiva_cd h2{
 	font-size:26px
@@ -9800,9 +9800,7 @@ img.uudiem_new_container{
 .uudiem_adivawhite h2 span{
 	font-size:40px
 }
-.bg_adivawhite3{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/bg_adivawhite2_tablet.png) no-repeat center
-}
+
 .box_quycach{
 	width:100%;margin:0 0 20px
 }
@@ -9890,17 +9888,11 @@ img.uudiem_new_container{
 .circel_tp{
 	width:100%
 }
-.thanhphan{
-	height:auto;background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/bg_tp_mobile.png) no-repeat center top
-}
-.thanhphan h2{
-	margin-top:20px
-}
 .section_adiva_white_cd{
-	height:auto;background-size:cover !important;background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/white_bg_page2_mobile.jpg) no-repeat center top;margin-bottom:20px
+	height:auto;background-size:cover !important;background:url(/statics/img/white_bg_page2_mobile.jpg) no-repeat center top;margin-bottom:20px
 }
 .postid-63395 .section_adiva_white_cd{
-	height:auto;background-size:cover !important;background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/white-vien-1-mobilea.jpg) no-repeat center top;margin-bottom:20px
+	height:auto;background-size:cover !important;background:url(/statics/img/white-vien-1-mobilea.jpg) no-repeat center top;margin-bottom:20px
 }
 .white_adiva_cd{
 	width:100%;margin:40px 0 0
@@ -9959,32 +9951,32 @@ img{
 .information_adiva_gold p{
 	float:left;width:100%;line-height:23px;font-size:14px
 }
-.button_buy_adivagold,.button_buy_adivawhite{
+.button_buy_elasteen,.button_buy_adivawhite{
 	float:left;padding:15px 25px;webkit-transition:all .5s ease;-moz-transition:all .5s ease;-o-transition:all .5s ease;-ms-transition:all .5s ease;transition:all .5s ease;margin-top:10px;background:#000;color:#fff;text-align:center;border-radius:4px
 }
 .button_buy_adivawhite:hover{
 	background:#ec687f
 }
-.button_buy_adivawhite a{
+.button_buy_elasteenwhite a{
 	color:#fff;text-transform:uppercase;font-size:16px
 }
-.button_buy_adivagold:hover{
+.button_buy_elasteen:hover{
 	background:#e6935c
 }
-.button_buy_adivagold a{
+.button_buy_elasteen a{
 	color:#fff;text-transform:uppercase;font-size:16px
 }
-.price_adivagold{
+.price_elasteengold{
 	float:left;width:100%;margin-top:10px
 }
-.price_adivagold span{
+.price_elasteengold span{
 	font-size:18px;color:#e6935c
 }
-.section_adiva_gold_2{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/adiva_gold_seciton2.jpg) no-repeat center top;height:468px;width:100%;float:left;margin-top:30px
+.section_elasteen_gold_2{
+	background:url(/statics/img/elasteen_section2.jpg) no-repeat center top;height:468px;width:100%;float:left;margin-top:30px
 }
 .section_adiva_gold_cd{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/bg_cd.png) no-repeat center top;height:468px;width:100%;float:left;margin-top:30px
+	background:url(/statics/img/bg_cd.png) no-repeat center top;height:468px;width:100%;float:left;margin-top:30px
 }
 .gold_adiva_thanhphan{
 	float:left;width:45%;color:#fff;margin-top:8%;margin-left:8%
@@ -9996,10 +9988,10 @@ img{
 	color:#fff
 }
 .gold_adiva_thanhphan .owl-next{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/icon_next_click_adivawhite.png) no-repeat top left !important
+	background:url(/statics/img/icon_next_click.png) no-repeat top left !important
 }
 .gold_adiva_thanhphan .owl-prev{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/icon_prev_click_adivawhite.png) no-repeat top left !important
+	background:url(/statics/img/icon_prev_click.png) no-repeat top left !important
 }
 .gold_adiva_thanhphan .owl-theme .owl-controls .owl-page span{
 	background:#fff
@@ -10026,7 +10018,7 @@ img{
 	display:none
 }
 .section_adiva_gold_4{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/adiva_gold_seciton_3.png) no-repeat center top;float:left;width:100%;height:484px;margin-top:30px
+	background:url(/statics/img/seciton_3.png) no-repeat center top;float:left;width:100%;height:484px;margin-top:30px
 }
 .congdung_adiva_gold{
 	float:left;margin-top:11%;width:50%
@@ -10041,7 +10033,7 @@ img{
 	font-size:35px !important
 }
 .section_adiva_gold_6{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/adiva_gold_seciton_4.jpg) no-repeat center top;float:left;width:100%;height:360px;margin-top:30px
+	background:url(/statics/img/seciton_4.jpg) no-repeat center top;float:left;width:100%;height:360px;margin-top:30px
 }
 .hd_adiva_gold{
 	padding:5%;width:50%;float:right
@@ -10140,16 +10132,16 @@ img.congdung_adiva_gold_mobile{
 	font-weight:700
 }
 .section_adiva_white_cd{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/white_bg_page2.jpg) no-repeat center top;height:500px;width:100%;overflow:hidden;float:left;margin-top:30px;background-size:cover
+	background:url(/statics/img/seciton_1.png) no-repeat center top;height:500px;width:100%;overflow:hidden;float:left;margin-top:30px;background-size:cover
 }
 .section_adiva_white_2{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/bg_white_adiva_page3-mina.jpg) no-repeat center top;height:500px;width:100%;float:left;margin-top:30px;background-size:cover
+	background:url(/statics/img/seciton_1.png) no-repeat center top;height:500px;width:100%;float:left;margin-top:30px;background-size:cover
 }
 .section_adiva_white_6{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/hd_whiteadiva.jpg) no-repeat center top;float:left;width:100%;height:362px;margin-top:30px
+	background:url(/statics/img/seciton_2.jpg) no-repeat center top;float:left;width:100%;height:362px;margin-top:30px
 }
 .postid-63395 .section_adiva_white_6{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/white-vien-5a.jpg) no-repeat center top;float:left;width:100%;height:362px;margin-top:30px
+	background:url(/statics/img/seciton_5.jpg) no-repeat center top;float:left;width:100%;height:362px;margin-top:30px
 }
 .white_adivatp{
 	float:right !important;margin-top:9%
@@ -10220,10 +10212,10 @@ img.uudiem_new_container{
 	font-size:30px !important
 }
 .section_adiva_gold_2{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/adiva_gold_seciton2_tablet.png) no-repeat center top
+	background:url(/statics/img/section2_tablet.png) no-repeat center top
 }
 .section_adiva_gold_4{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/adiva_gold_seciton_3_tablet.png) no-repeat center top
+	background:url(/statics/img/section_3_tablet.png) no-repeat center top
 }
 .white_adivatp{
 	margin-top:8%
@@ -10235,7 +10227,7 @@ img.uudiem_new_container{
 	width:100% !important;margin-left:0 !important;margin-right:0 !important;margin-bottom:20px !important;height:auto !important;padding-left:0 !important;padding-right:0 !important
 }
 .section_adiva_gold_2{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/thanhphan_mobile.jpg) no-repeat center top;width:100%;height:auto !important;background-size:cover
+	background:url(/statics/img/thanhphan_mobile.jpg) no-repeat center top;width:100%;height:auto !important;background-size:cover
 }
 .gold_adiva_thanhphan{
 	margin-top:130%!important
@@ -10262,10 +10254,10 @@ img.adiva_gold_water{
 	display:none
 }
 .gold_adiva_thanhphan .owl-prev{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/icon_prev_click_adivagold.png) no-repeat top left !important
+	background:url(/statics/img/icon_prev_click.png) no-repeat top left !important
 }
 .gold_adiva_thanhphan .owl-next{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/icon_next_click_adivagold.png) no-repeat top left !important
+	background:url(/statics/img/icon_next_click.png) no-repeat top left !important
 }
 .gold_adiva_thanhphan{
 	margin-bottom:0 !important
@@ -11955,7 +11947,7 @@ ul.pagination li a{
 	display:none
 }
 .body_vuottroi{
-	float:left;padding:20px 0;height:auto;background:url(//adiva.com.vn/wp-content/themes/adiva/assets/sass/../images/dd_img_why_nghemicell_mobile.jpg) no-repeat center
+	float:left;padding:20px 0;height:auto;background:none
 }
 .body_vuottroi p{
 	width:90%;margin:0 5%;font-size:16px;text-align:justify
@@ -12413,10 +12405,10 @@ header nav ul li{
 	float:left;font-weight:700;width:100%;font-size:16px;text-transform:uppercase;text-align:left
 }
 .owl-next{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/images/next2.png) no-repeat center
+	background:url(//statics/img/next.png) no-repeat center
 }
 .owl-prev{
-	background:url(//adiva.com.vn/wp-content/themes/adiva/assets/images/prev2.png) no-repeat center
+	background:url(/statics/img/prev.png) no-repeat center
 }
 .adiva_product .product-img{
 	margin-top:30px
@@ -13139,7 +13131,7 @@ ul.tp-adiva-vien li{
 	background:#000
 }
 .home #video .container .overlay{
-	display:block;width:100%;height:100%;position:absolute;top:0;left:0;background-image:url(//adiva.com.vn/wp-content/themes/adiva/assets/images/video.jpg);background-repeat:no-repeat;background-size:cover;z-index:10
+	display:block;width:100%;height:100%;position:absolute;top:0;left:0;background-image:none;background-repeat:no-repeat;background-size:cover;z-index:10
 }
 .home #video .container .overlay:hover{
 	cursor:pointer
@@ -13395,7 +13387,7 @@ ul.post-list-collagen-page li img{
 	padding:0;width:96%;margin:0 auto
 }
 .home #video .container .overlay{
-	background-image:url(//adiva.com.vn/wp-content/themes/adiva/assets/images/video_mobile.jpg);background-repeat:no-repeat;background-size:cover
+	background-image:none;background-repeat:no-repeat;background-size:cover
 }
 .home #video .video-container{
 	width:100%
@@ -13413,13 +13405,13 @@ ul.post-list-collagen-page li img{
 	height:24px
 }
 .kk-star-ratings .kksr-star.gray{
-	background-image:url(https://adiva.com.vn/wp-content/plugins/kk-star-ratings/gray.png)
+	background-image:url(/statics/img/gray.png)
 }
 .kk-star-ratings .kksr-star.yellow{
-	background-image:url(https://adiva.com.vn/wp-content/plugins/kk-star-ratings/yellow.png)
+	background-image:url(/statics/img/yellow.png)
 }
 .kk-star-ratings .kksr-star.orange{
-	background-image:url(https://adiva.com.vn/wp-content/plugins/kk-star-ratings/orange.png)
+	background-image:url(/statics/img/orange.png)
 }
 
 section{
@@ -13435,10 +13427,10 @@ section *{
 	position:inherit;display:flex;justify-content:center
 }
 .owl-prev{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold/btn-prev.png?v=1.08)
+	background-image:url(/statics/img/icon_prev_click.png)
 }
 .owl-next{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold/btn-next.png?v=1.08)
+	background-image:url(/statics/img/icon_next_click.png)
 }
 .owl-prev,.owl-next{
 	background-repeat:no-repeat;background-position:center;background-color:rgba(0,0,0,.85)
@@ -13628,7 +13620,7 @@ section[class^="s"]{
 	margin-bottom:30px
 }
 .s2 ul li{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/check.png?v=1.08);background-repeat:no-repeat;background-position-y:center;padding-left:60px
+	background-image:url(/statics/img/check.png);background-repeat:no-repeat;background-position-y:center;padding-left:60px
 }
 .s2 ul li,.s2 ul li span{
 	font-size:3rem;font-family:'Playfair Display', serif
@@ -13721,19 +13713,22 @@ section[class^="s"]{
 	right:0;bottom:0;text-align:center;width:170px;border-top-left-radius:6px;border-top-right-radius:6px;padding:125px 0 30px;box-sizing:border-box
 }
 .s4 .graphic-wrap .item1 .box{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/img4a.png?v=1.08);background-repeat:no-repeat;background-position:bottom center;min-height:320px
+	background-image:url(/statics/img/img4a.webp);background-repeat:no-repeat;background-position:bottom center;min-height:320px
 }
 .s4 .graphic-wrap .item2 .box{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/img4b.png?v=1.08);background-repeat:no-repeat;background-position:bottom center;min-height:306px
+	background-image:url(/statics/img/img4b.webp);background-repeat:no-repeat;background-position:bottom center;min-height:306px
 }
 .s4 .graphic-wrap .item3 .box{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/img4c.png?v=1.08);background-repeat:no-repeat;background-position:bottom center
+	background-image:url(/statics/img/img4c.webp);background-repeat:no-repeat;background-position:bottom center
 }
 .s4 .graphic-wrap .item .box *{
 	color:#fff
 }
 .s4 .graphic-wrap .item .box h5{
-	font-size:1.3rem;margin-bottom:15px
+	font-size:1.1rem;margin-bottom:15px;
+}
+.s4 .graphic-wrap .item .box p {
+	font-size: 0.9rem;;
 }
 .s4 .graphic-wrap .item h3{
 	width:170px;bottom:-91px;right:0;text-align:center;font-size:1.7rem;font-family:'Playfair Display', serif;line-height:1;font-weight:400
@@ -13829,7 +13824,7 @@ section[class^="s"]{
 	list-style:disc;margin-bottom:10px
 }
 .s5{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/bg5.jpg?v=1.08);background-repeat:no-repeat;background-color:#fef1df
+	background-image:url(/statics/img/bg/bg5.jpg);background-repeat:no-repeat;background-color:#fef1df
 }
 .s5 .heading-title{
 	color:unset;font-weight:400;font-size:4rem
@@ -14186,7 +14181,7 @@ section[class^="s"]{
 	color:#d0983d
 }
 .s19{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/bg19.jpg?v=1.08);background-repeat:no-repeat;background-size:cover;padding:80px 0
+	background-image:url(/statics/img/bg/bg19.jpg);background-repeat:no-repeat;background-size:cover;padding:80px 0
 }
 .s19 .heading-title{
 	line-height:1;font-size:4rem
@@ -14225,7 +14220,7 @@ section[class^="s"]{
 	padding-top:0;max-width:492px
 }
 .s19 ul li{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/check1.png?v=1.08);background-repeat:no-repeat;background-position:14px center;font-size:16px;line-height:1.3;color:#845017;background-color:#fff;margin-bottom:15px;border-radius:6px;padding:6px 15px 6px 48px;min-height:60px;display:flex;flex-direction:row;align-items:center;font-weight:700
+	background-image:url(/statics/img/check1.png);background-repeat:no-repeat;background-position:14px center;font-size:16px;line-height:1.3;color:#845017;background-color:#fff;margin-bottom:15px;border-radius:6px;padding:6px 15px 6px 48px;min-height:60px;display:flex;flex-direction:row;align-items:center;font-weight:700
 }
 .s21 .desc{
 	margin-top:30px
@@ -14541,7 +14536,7 @@ section h1{
 	max-height:60px
 }
 .s4{
-	padding:30px 0;background-color:#feecde;background-image:none;background-size:unset
+	padding:30px 0;background-size:unset
 }
 .s4 .heading-title{
 	margin:-28px 0 15px;font-size:1.5rem
@@ -14616,7 +14611,7 @@ section h1{
 	font-size:1.5rem
 }
 .s4 .left>.row{
-	padding:0 15px;box-sizing:border-box
+	padding:0 15px;box-sizing:border-box;background: #ead0e5;
 }
 .s4 .graphic-wrap .item1 .box{
 	min-height:358px;padding-top:187px
@@ -14670,7 +14665,7 @@ section h1{
 	font-size:1.2rem;line-height:1.2
 }
 .s6{
-	padding:30px 0 15px;background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/bg6-mobile.jpg?v=1.08);background-repeat:no-repeat;background-size:unset;background-color:#dbccb5
+	padding:30px 0 15px;background-image:none;background-repeat:no-repeat;background-size:unset;background-color:#dbccb5
 }
 .s6 .content-wrap{
 	padding:0 15px
@@ -14703,7 +14698,7 @@ section h1{
 	right:6%;bottom:28%
 }
 .s7 .head-t,.s8 .head-t,.s9 .head-t{
-	width:100%;height:130px;background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/pattern12-mobile.png?v=1.08);background-size:contain;background-position:center
+	width:100%;height:130px;background-image:url(/statics/img/bg/pattern12-mobile.png);background-size:contain;background-position:center
 }
 .s7 .head-t .t,.s9 .head-t .t{
 	width:210px;height:91px;line-height:131px
@@ -14901,7 +14896,7 @@ section h1{
 	margin-top:0
 }
 .s19{
-	background-image:url(https://adiva.com.vn/wp-content/themes/adiva/assets/images/gold-0822/bg19-mobile.jpg?v=1.08);background-repeat:no-repeat;background-size:cover;padding:45px 0 30px
+	background-image:url(/statics/img/bg/bg19-mobile.jpg);background-repeat:no-repeat;background-size:cover;padding:45px 0 30px
 }
 .s19 .heading-title{
 	margin-bottom:15px
