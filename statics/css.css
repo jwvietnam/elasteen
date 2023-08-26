@@ -13768,19 +13768,19 @@ section[class^="s"]{
 	display:inline-block;position:relative
 }
 .s4 .tagline{
-	position:absolute;font-family:'Pinyon Script', cursive;font-size:1.5rem;line-height:1
+	position:absolute;font-family:'Pinyon Script', cursive;font-size:2rem;line-height:1
 }
 .s4 .tagline b{
-	font-family:'Pinyon Script', cursive;font-size:1.5rem;display:block;line-height:1
+	font-family:'Pinyon Script', cursive;font-size:2.5rem;display:block;line-height:1
 }
 .s4 .tagline.tag1{
-	left:2%;top:56%;text-align:right
+	left:0%;top:33%;text-align:right
 }
 .s4 .tagline.tag2{
-	top:56%;right:3%;text-align:left
+	top:5%;left:47%;text-align:left
 }
 .s4 .tagline.tag3{
-	right:14%;bottom:7%;text-align:left
+	right:12%;bottom:27%;text-align:left
 }
 .s4 .left{
 	position:relative
@@ -13870,7 +13870,8 @@ section[class^="s"]{
 	width:100%
 }
 .s7 .desc,.s8 .desc,.s9 .desc{
-	margin-top:30px
+	margin-top:30px;
+	text-align: justify;
 }
 .s10{
 	padding-bottom:80px
@@ -13937,6 +13938,10 @@ section[class^="s"]{
 }
 .s12{
 	padding:80px 15px
+}
+.s12 .content-wrap b {
+	font-weight: 600;
+
 }
 .s12 .heading-title{
 	text-transform:uppercase;font-size:4rem;margin-bottom:60px
@@ -14023,7 +14028,7 @@ section[class^="s"]{
 	text-transform:uppercase;font-size:3.5rem
 }
 .s18 p.m{
-	font-family:'Playfair Display', serif;font-size:3rem
+	font-family:'Playfair Display', serif;font-size:2.5rem
 }
 .s18 p{
 	margin-bottom:15px
@@ -14164,7 +14169,7 @@ section[class^="s"]{
 	padding:80px 0
 }
 .s16 .head-title{
-	font-size:2rem;line-height:1.2;margin-bottom:30px;font-weight:700
+	font-size:2rem;line-height:1.2;margin-bottom:30px;font-weight:700;color:#ab3e97;
 }
 .s16 .item{
 	padding:15px
@@ -14429,19 +14434,19 @@ section h1{
 	font-size:1.8rem;padding:5px 15px
 }
 .s1 .tagline{
-	font-size:1.5rem
+	font-size:1.8rem
 }
 .s1 .tagline b{
-	font-size:1.7rem
+	font-size:2rem
 }
 .s1 .tagline.tag1{
-	left:8%;top:44%
+	left:1%;top:34%
 }
 .s1 .tagline.tag2{
-	top:15%;right:1%
+	top:5%;right:31%
 }
 .s1 .tagline.tag3{
-	right:5%;bottom:25%
+	right:10%;bottom:29%
 }
 .s2{
 	
@@ -14635,14 +14640,17 @@ section h1{
 .s4 .right{
 	margin:45px 0
 }
+.s4 .tagline b{
+	font-size: 2rem;
+}
 .s4 .tagline.tag1{
-	left:7%;top:54%
+	left:7%;top:33%
 }
 .s4 .tagline.tag2{
-	top:11%;right:4%
+	top:5%;right:4%
 }
 .s4 .tagline.tag3{
-	right:6%;bottom:30%
+	right:6%;bottom:27%
 }
 .s5 .content-wrap{
 	margin:0;padding:0 15px
