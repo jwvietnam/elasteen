@@ -13560,13 +13560,13 @@ section[class^="s"]{
 	font-family: 'Pinyon Script', cursive;font-size:2rem;display:block;line-height:1
 }
 .s1 .tagline.tag1{
-	left:7%;top:36%;text-align:right
+	left:1%;top:36%;text-align:right
 }
 .s1 .tagline.tag2{
-	top:10%;right:20%;text-align:left
+	top:10%;right:53%;text-align:left
 }
 .s1 .tagline.tag3{
-	right:10%;bottom:27%;text-align:left
+	right:17%;bottom:33%;text-align:left
 }
 .s1 .content-wrap{
 	margin-top:6rem
@@ -13699,7 +13699,7 @@ section[class^="s"]{
 	background-image:url(/statics/img/bg/bg2.webp);background-repeat:no-repeat;background-size:cover
 }
 .s4 .graphic-wrap .row,.s4 .graphic-wrap .item{
-	min-height:800px
+	min-height:850px
 }
 .s4 .graphic-wrap .row{
 	position:relative
@@ -13762,16 +13762,16 @@ section[class^="s"]{
 	width:100%;line-height:1;bottom:-91px;font-weight:700
 }
 .s4 .graphic-wrap .item h3 span{
-	font-family:'Playfair Display', serif;font-size:1.7rem;display:block;font-weight:700
+	font-size:1.7rem;display:block;font-weight:700
 }
 .s4 .tagline-wrap{
 	display:inline-block;position:relative
 }
 .s4 .tagline{
-	position:absolute;font-family:'Playfair Display', serif;font-size:1.5rem;line-height:1
+	position:absolute;font-family:'Pinyon Script', cursive;font-size:1.5rem;line-height:1
 }
 .s4 .tagline b{
-	font-family:'Playfair Display', serif;font-size:1.5rem;display:block;line-height:1
+	font-family:'Pinyon Script', cursive;font-size:1.5rem;display:block;line-height:1
 }
 .s4 .tagline.tag1{
 	left:2%;top:56%;text-align:right
@@ -13813,7 +13813,7 @@ section[class^="s"]{
 	height:400px;background:#ead0e5
 }
 .s4 .bg2{
-	height:400px;background:#ead0e5;top:400px
+	height:575px;background:#ead0e5;top:400px
 }
 .s4 .content-wrap sup{
 	font-size:10px
