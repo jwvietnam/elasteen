@@ -6293,31 +6293,31 @@ header nav ul li.nghevien li{
 header nav ul li.nghevien li a{
 	text-indent:10px;font-weight:400;display:-webkit-box
 }
-header nav ul li.adiva ul{
+header nav ul li.elasteen ul{
 	width:770px;left:-215px;display:none
 }
-header nav ul li.adiva ul li:nth-child(1),header nav ul li.adiva ul li:nth-child(2){
+header nav ul li.elasteen ul li:nth-child(1),header nav ul li.elasteen ul li:nth-child(2){
 	text-align:center;width:30%;float:left;position:relative;z-index:999999;border-right:1px solid #e7e7e7
 }
-header nav ul li.adiva ul li:nth-child(1) span,header nav ul li.adiva ul li:nth-child(2) span{
+header nav ul li.elasteen ul li:nth-child(1) span,header nav ul li.elasteen ul li:nth-child(2) span{
 	color:#fff;position:absolute;top:-30px;left:266px
 }
-header nav ul li.adiva ul li:nth-child(1) img,header nav ul li.adiva ul li:nth-child(2) img{
+header nav ul li.elasteen ul li:nth-child(1) img,header nav ul li.elasteen ul li:nth-child(2) img{
 	padding:0;padding-bottom:15px;float:none
 }
-header nav ul li.adiva ul li:nth-child(1) p,header nav ul li.adiva ul li:nth-child(2) p{
+header nav ul li.elasteen ul li:nth-child(1) p,header nav ul li.elasteen ul li:nth-child(2) p{
 	color:#636363;font-weight:400;position:absolute;bottom:-5px;left:0;float:left;width:100%
 }
-header nav ul li.adiva ul li:nth-child(1) p:hover,header nav ul li.adiva ul li:nth-child(2) p:hover{
+header nav ul li.elasteen ul li:nth-child(1) p:hover,header nav ul li.elasteen ul li:nth-child(2) p:hover{
 	color:#e93614
 }
-header nav ul li.adiva:hover ul{
+header nav ul li.elasteen:hover ul{
 	display:block
 }
-header nav ul li.adiva li{
+header nav ul li.elasteen li{
 	float:none
 }
-header nav ul li.adiva li a{
+header nav ul li.elasteen li a{
 	text-indent:10px;display:-webkit-box
 }
 header nav ul li span{
@@ -6371,7 +6371,7 @@ header nav span.icon-call-answer{
 #wrap input[type=text]:focus span{
 	color:#000;z-index:99
 }
-#slider,#adiva{
+#slider,#elasteen{
 	float:left;position:relative;width:100%
 }
 #img_water_mobile{
@@ -6392,10 +6392,10 @@ header nav span.icon-call-answer{
 #owl-demo .item img,#owl-demo2 .item img,#owl-demo3 .item img{
 	display:block;width:100%;height:auto
 }
-#adiva .story_colums{
+#elasteen .story_colums{
 	float:left;text-align:center;width:50%
 }
-#adiva .story_colums img{
+#elasteen .story_colums img{
 	width:100%
 }
 .customer_img{
@@ -6404,7 +6404,7 @@ header nav span.icon-call-answer{
 .customer_img img{
 	width:100%
 }
-.adiva_product{
+.elasteen_product{
 	float:left;text-align:center;width:50%
 }
 .complanit_customer{
@@ -6422,37 +6422,37 @@ header nav span.icon-call-answer{
 #owl-demo2 .owl-next:hover,#owl-demo3 .owl-next:hover,#owl-demo4 .owl-next:hover{
 	background:#dedede url(/statics/img/next2.png) no-repeat center
 }
-#owl-demo2 .title_adiva,#owl-demo3 .title_adiva,#owl-demo4 .title_adiva{
+#owl-demo2 .title_elasteen,#owl-demo3 .title_elasteen,#owl-demo4 .title_elasteen{
 	float:left;width:100%;text-align:center
 }
-#owl-demo2 .title_adiva h6,#owl-demo3 .title_adiva h6,#owl-demo4 .title_adiva h6{
+#owl-demo2 .title_elasteen h6,#owl-demo3 .title_elasteen h6,#owl-demo4 .title_elasteen h6{
 	font-size:18px;margin-bottom:10px
 }
-#owl-demo2 .title_adiva h6:hover,#owl-demo3 .title_adiva h6:hover,#owl-demo4 .title_adiva h6:hover{
+#owl-demo2 .title_elasteen h6:hover,#owl-demo3 .title_elasteen h6:hover,#owl-demo4 .title_elasteen h6:hover{
 	color:#e93614
 }
-#owl-demo2 .title_adiva p,#owl-demo3 .title_adiva p,#owl-demo4 .title_adiva p{
+#owl-demo2 .title_elasteen p,#owl-demo3 .title_elasteen p,#owl-demo4 .title_elasteen p{
 	width:80%;margin:auto
 }
 #owl-demo2 .owl-pagination,#owl-demo3 .owl-pagination,#owl-demo4 .owl-pagination{
 	display:none
 }
-#owl-demo2 .button_adiva,#owl-demo3 .button_adiva,#owl-demo4 .button_adiva{
+#owl-demo2 .button_elasteen,#owl-demo3 .button_elasteen,#owl-demo4 .button_elasteen{
 	float:left;width:100%;margin-top:30px;padding-bottom:20px
 }
-#owl-demo2 .button_adiva a,#owl-demo3 .button_adiva a,#owl-demo4 .button_adiva a{
+#owl-demo2 .button_elasteen a,#owl-demo3 .button_elasteen a,#owl-demo4 .button_elasteen a{
 	padding:10px 25px;margin:0 5px;border-radius:400px;width:120px
 }
-#owl-demo2 .button_adiva a.more_adiva,#owl-demo3 .button_adiva a.more_adiva,#owl-demo4 .button_adiva a.more_adiva{
+#owl-demo2 .button_elasteen a.more_elasteen,#owl-demo3 .button_elasteen a.more_elasteen,#owl-demo4 .button_elasteen a.more_elasteen{
 	color:#191919;background:0 0;transition:background-color .2s ease;border:1px solid #191919
 }
-#owl-demo2 .button_adiva a.more_adiva:hover,#owl-demo3 .button_adiva a.more_adiva:hover,#owl-demo4 .button_adiva a.more_adiva:hover{
+#owl-demo2 .button_elasteen a.more_elasteen:hover,#owl-demo3 .button_elasteen a.more_elasteen:hover,#owl-demo4 .button_elasteen a.more_elasteen:hover{
 	background:#e93614;color:#fff;border:1px solid #e93614
 }
-#owl-demo2 .button_adiva a.buy_adiva,#owl-demo3 .button_adiva a.buy_adiva,#owl-demo4 .button_adiva a.buy_adiva{
+#owl-demo2 .button_elasteen a.buy_elasteen,#owl-demo3 .button_elasteen a.buy_elasteen,#owl-demo4 .button_elasteen a.buy_elasteen{
 	color:#fff;transition:background-color .2s ease;background:#191919;border:1px solid #191919
 }
-#owl-demo2 .button_adiva a.buy_adiva:hover,#owl-demo3 .button_adiva a.buy_adiva:hover,#owl-demo4 .button_adiva a.buy_adiva:hover{
+#owl-demo2 .button_elasteen a.buy_elasteen:hover,#owl-demo3 .button_elasteen a.buy_elasteen:hover,#owl-demo4 .button_elasteen a.buy_elasteen:hover{
 	background:#e93614;color:#fff;border:1px solid #e93614
 }
 #owl-demo4 .owl-pagination{
@@ -6998,10 +6998,10 @@ ul.pagination li a.active{
 .date28_infor p{
 	font-style:italic
 }
-#customer h2 a,.adiva_product h2 a{
+#customer h2 a,.elasteen_product h2 a{
 	float:left;width:100%;font-size:16px;text-transform:uppercase;font-weight:700;text-align:left
 }
-#customer h2 a:hover,.adiva_product h2 a:hover{
+#customer h2 a:hover,.elasteen_product h2 a:hover{
 	color:#e93614
 }
 .customer_list{
@@ -7196,7 +7196,7 @@ ul.pagination li a.active{
 .right_inforimg img{
 	width:100%
 }
-#section1,#section2,#section3,#section4,#section5,#section6,#section7,#section8,#more_adiva1,#more_adiva2,#more_adiva3,#more_adiva4,#more_adiva5,#more_adiva6,#more_adiva7,#more_adiva8,#more_adiva9,#more_adiva10{
+#section1,#section2,#section3,#section4,#section5,#section6,#section7,#section8,#more_elasteen1,#more_elasteen2,#more_elasteen3,#more_elasteen4,#more_elasteen5,#more_elasteen6,#more_elasteen7,#more_elasteen8,#more_elasteen9,#more_elasteen10{
 	padding:50px 0;width:900px;float:right;position:relative;z-index:999
 }
 #product_detail ul li.active{
@@ -7220,7 +7220,7 @@ ul.pagination li a.active{
 #product_detail .navbar-nav li.active a{
 	color:#fff
 }
-#section1 h2,#section2 h2,#section3 h2,#section4 h2,#section5 h2,#section6 h2,#section7 h2,#section8 h2,#more_adiva1 h2,#more_adiva2 h2,#more_adiva3 h2,#more_adiva4 h2,#more_adiva5 h2,#more_adiva6 h2,#more_adiva7 h2,#more_adiva8 h2,#more_adiva9 h2,#more_adiva10 h2{
+#section1 h2,#section2 h2,#section3 h2,#section4 h2,#section5 h2,#section6 h2,#section7 h2,#section8 h2,#more_elasteen1 h2,#more_elasteen2 h2,#more_elasteen3 h2,#more_elasteen4 h2,#more_elasteen5 h2,#more_elasteen6 h2,#more_elasteen7 h2,#more_elasteen8 h2,#more_elasteen9 h2,#more_elasteen10 h2{
 	float:left;width:100%;font-size:18px;margin:0 0 40px;text-transform:uppercase
 }
 #section1 img{
@@ -7241,13 +7241,13 @@ ul.pagination li a.active{
 #section2 ul li p,#section3 ul li p{
 	float:left;width:80%;margin:10px 0 0
 }
-#section2 ul li.li_adiva_water,#section3 ul li.li_adiva_water{
+#section2 ul li.li_elasteen_water,#section3 ul li.li_elasteen_water{
 	text-align:center;height:auto
 }
-#section2 ul li.li_adiva_water img,#section3 ul li.li_adiva_water img{
+#section2 ul li.li_elasteen_water img,#section3 ul li.li_elasteen_water img{
 	width:100%
 }
-#section2 ul li.li_adiva_water p,#section3 ul li.li_adiva_water p{
+#section2 ul li.li_elasteen_water p,#section3 ul li.li_elasteen_water p{
 	float:left;width:100%;background:#efefef;padding:10px 0;margin:0
 }
 #section2 ul li:nth-child(odd),#section3 ul li:nth-child(odd){
@@ -7358,10 +7358,10 @@ ul.pagination li a.active{
 #banner_page img{
 	width:100%
 }
-#more_adiva1 p{
+#more_elasteen1 p{
 	width:100%;line-height:20px;text-align:justify
 }
-#more_adiva1 p img{
+#more_elasteen1 p img{
 	float:left;padding:0 20px 20px 0
 }
 .list_more{
@@ -7385,13 +7385,13 @@ ul.pagination li a.active{
 .list_more ul li p img{
 	position:absolute;bottom:-17px;left:0
 }
-#more_adiva3 img,#more_adiva7 img,#more_adiva9 img,#more_adiva10 img{
+#more_elasteen3 img,#more_elasteen7 img,#more_elasteen9 img,#more_elasteen10 img{
 	float:left;width:30%;margin:20px 5% 0 0
 }
-#more_adiva3 p,#more_adiva7 p,#more_adiva9 p,#more_adiva10 p{
+#more_elasteen3 p,#more_elasteen7 p,#more_elasteen9 p,#more_elasteen10 p{
 	float:left;width:65%;margin:20px 0 0;text-align:justify
 }
-#more_adiva3 p b,#more_adiva7 p b,#more_adiva9 p b,#more_adiva10 p b{
+#more_elasteen3 p b,#more_elasteen7 p b,#more_elasteen9 p b,#more_elasteen10 p b{
 	float:left;width:100%;margin:10px 0;font-style:italic
 }
 .phanloai{
@@ -7412,28 +7412,28 @@ ul.pagination li a.active{
 .phanloai ul li:nth-child(4){
 	margin-right:0
 }
-#more_adiva5 b{
+#more_elasteen5 b{
 	font-style:italic
 }
-#more_adiva5 li{
+#more_elasteen5 li{
 	float:left;width:100%;margin:0 0 20px
 }
-#more_adiva5 li img{
+#more_elasteen5 li img{
 	float:left;width:20%;margin:0 2% 0 0
 }
-#more_adiva5 li .phanloai{
+#more_elasteen5 li .phanloai{
 	float:left;width:78%
 }
-#more_adiva5 li .phanloai h6{
+#more_elasteen5 li .phanloai h6{
 	width:100%;margin:0 0 10px
 }
-#more_adiva5 li .phanloai p{
+#more_elasteen5 li .phanloai p{
 	width:100%;text-align:justify
 }
-#more_adiva6 p,#more_adiva8 p{
+#more_elasteen6 p,#more_elasteen8 p{
 	text-align:justify;line-height:20px
 }
-#more_adiva6 img,#more_adiva8 img{
+#more_elasteen6 img,#more_elasteen8 img{
 	float:left;width:100%;margin:20px 0
 }
 img.page_mobile{
@@ -7478,7 +7478,7 @@ img.page_mobile{
 p.txt_camnhan{
 	margin:20px 0;float:left;width:100%
 }
-.camnhan_adiva ul li{
+.camnhan_elasteen ul li{
 	float:left;width:23%;margin:1%;height:150px;background:#38393e
 }
 .cate_camnhan{
@@ -7538,10 +7538,10 @@ p.txt_camnhan{
 .cate_camnhan span{
 	display:none
 }
-.banner_question img.adiva_mbile{
+.banner_question img.elasteen_mbile{
 	display:none
 }
-.adiva_question{
+.elasteen_question{
 	float:left;width:50%
 }
 .news_question{
@@ -7748,31 +7748,31 @@ p.txt_camnhan{
 .loiic6 img.loiich_mobile{
 	display:none
 }
-.n_adiva{
+.n_elasteen{
 	float:left;width:100%;margin:30px 0;text-align:center
 }
-.n_adiva h1{
+.n_elasteen h1{
 	position:relative;z-index:999;font-size:28px;font-weight:400;width:100%;padding:10px 0
 }
-.n_adiva h1 a{
+.n_elasteen h1 a{
 	font-size:28px;font-weight:400
 }
-.n_adiva h1 a:hover{
+.n_elasteen h1 a:hover{
 	color:#525252
 }
-.n_adiva p{
+.n_elasteen p{
 	padding:10px 0;line-height:25px;width:100%;font-size:16px
 }
-.n_adiva b{
+.n_elasteen b{
 	font-size:16px
 }
-.text_adiva{
+.text_elasteen{
 	float:left;width:100%
 }
-.text_adiva h2{
+.text_elasteen h2{
 	font-size:28px;text-align:left;font-weight:400;padding-left:10%;width:90%;float:left;margin-top:80px
 }
-.description_adiva{
+.description_elasteen{
 	float:left;width:95%;padding-left:5%;position:relative
 }
 .img_descrip{
@@ -7787,25 +7787,25 @@ p.txt_camnhan{
 .img_descrip span{
 	font-size:40px
 }
-.description_adiva p{
+.description_elasteen p{
 	position:absolute;top:101px;left:200px;background:#fff;text-align:left;font-size:18px
 }
-.description_adiva a{
+.description_elasteen a{
 	position:absolute;bottom:-30px;padding:10px 30px;background:#000;color:#fff;font-size:16px;left:220px;text-align:center;border-radius:400px;webkit-transition:all .5s ease;-moz-transition:all .5s ease;-o-transition:all .5s ease;-ms-transition:all .5s ease;transition:all .5s ease
 }
-.description_adiva a:hover{
+.description_elasteen a:hover{
 	background:#f9b234
 }
 .nghevien_background{
 	float:left;width:100%;margin-bottom:20px;height:454px;background:#ffd10a
 }
-.vien_adiva h2,.vien_adiva .description_adiva{
+.vien_elasteen h2,.vien_elasteen .description_elasteen{
 	padding-left:0
 }
-.vien_adiva b{
+.vien_elasteen b{
 	font-size:28px;line-height:40px;padding-top:85px
 }
-.vien_adiva p{
+.vien_elasteen p{
 	left:170px
 }
 .nghevien_background .container{
@@ -8675,13 +8675,13 @@ a.dropdown-toggle{
 .n_menu_pc ul>li ul.ul_collagen li:nth-child(4) a{
 	float:left;width:100%;margin-bottom:10px;color:#000;text-transform:none;text-align:left
 }
-.sub_menuadiva{
+.sub_menuelasteen{
 	display:none
 }
 .n_menu_pc ul>li ul.ul_collagen li:nth-child(4) img{
 	width:100%
 }
-.n_menu_pc ul>li:hover ul.ul_submenu,.n_menu_pc ul>li:hover .sub_menuadiva,.n_menu_pc ul>li.active ul.ul_submenu,.n_menu_pc ul>li.active .sub_menuadiva{
+.n_menu_pc ul>li:hover ul.ul_submenu,.n_menu_pc ul>li:hover .sub_menuelasteen,.n_menu_pc ul>li.active ul.ul_submenu,.n_menu_pc ul>li.active .sub_menuelasteen{
 	display:block
 }
 .n_menu_pc ul>li ul.n_ul_news{
@@ -8759,61 +8759,61 @@ a.dropdown-toggle{
 .content_nghesvien a.button_nghevien{
 	border-radius:0
 }
-.adiva_white_home{
+.elasteen_white_home{
 	float:left;width:100%;margin-top:20px
 }
-.adiva_water_home{
+.elasteen_water_home{
 	float:left;width:100%;margin-bottom:20px
 }
-.adiva_white_home img,.adiva_water_home img{
+.elasteen_white_home img,.elasteen_water_home img{
 	float:left;width:50%
 }
-.content_whiteadiva_home{
+.content_whiteelasteen_home{
 	float:left;width:47%;margin-left:3%
 }
-.content_whiteadiva_home h1 a,.content_whiteadiva_home h2 a{
+.content_whiteelasteen_home h1 a,.content_whiteelasteen_home h2 a{
 	float:left;width:100%;margin-top:14%;font-size:40px;font-family:'Playfair Display', serif;font-weight:400
 }
-.content_whiteadiva_home p{
+.content_whiteelasteen_home p{
 	float:left;width:100%;margin-top:10px;line-height:23px;text-align:justify;font-size:16px
 }
-.content_whiteadiva_home a.button_order_home{
+.content_whiteelasteen_home a.button_order_home{
 	float:left;padding:10px 20px;background:#000;text-align:center;-webkit-transition:all .2s linear;-moz-transition:all .2s linear;transition:all .2s linear;color:#fff;margin-top:20px;font-size:14px
 }
-.content_whiteadiva_home a.button_order_home:hover{
+.content_whiteelasteen_home a.button_order_home:hover{
 	background:#ce8007
 }
-.content_whiteadiva_home p a:hover{
+.content_whiteelasteen_home p a:hover{
 	background:unset !important
 }
-.content_adivawater_home{
+.content_elasteenwater_home{
 	float:left;width:47%;text-align:right;margin-right:3%
 }
-.content_adivawater_home h2 a{
+.content_elasteenwater_home h2 a{
 	float:left;width:100%;text-align:right;margin-top:14%;font-size:40px;font-family:'Playfair Display', serif;font-weight:400
 }
-.content_adivawater_home p{
+.content_elasteenwater_home p{
 	float:left;width:100%;margin-top:10px;line-height:23px;text-align:right;font-size:16px
 }
-.content_adivawater_home a.button_order_home{
+.content_elasteenwater_home a.button_order_home{
 	float:right;padding:10px 20px;background:#ea965e;text-align:center;-webkit-transition:all .2s linear;-moz-transition:all .2s linear;transition:all .2s linear;color:#fff;margin-top:20px;font-size:14px
 }
-.content_adivawater_home a.button_order_home:hover{
+.content_elasteenwater_home a.button_order_home:hover{
 	background:#000
 }
-#gold_adiva_home{
+#gold_elasteen_home{
 	width:100%;float:left;margin-bottom:20px
 }
-#gold_adiva_home a.button_order_home{
+#gold_elasteen_home a.button_order_home{
 	background:#ee677e
 }
-#gold_adiva_home a:hover{
+#gold_elasteen_home a:hover{
 	background:#000
 }
-.adiva_water_home_mobile{
+.elasteen_water_home_mobile{
 	display:none
 }
-#gold_adiva_home h2 a:hover{
+#gold_elasteen_home h2 a:hover{
 	background:#fff !important
 }
 .nghevien_background img.micell_home_pc{
@@ -8825,7 +8825,7 @@ a.dropdown-toggle{
 .home #slider{
 	float:left;position:relative;width:100%;margin-top:-1px
 }
-.sub_menuadiva{
+.sub_menuelasteen{
 	position:fixed;top:56px;left:0;width:100%;z-index:-1;height:100%;background:rgba(0,0,0,.2)
 }
 .ul_submenu span{
@@ -9265,58 +9265,58 @@ img.micell_da{
 .content_nghesvien a.button_nghevien{
 	border-radius:0
 }
-.adiva_white_home{
+.elasteen_white_home{
 	float:left;width:100%;margin-top:20px
 }
-.adiva_water_home{
+.elasteen_water_home{
 	float:left;width:100%;margin-bottom:20px
 }
-.adiva_white_home img,.adiva_water_home img{
+.elasteen_white_home img,.elasteen_water_home img{
 	float:left;width:50%
 }
-.content_whiteadiva_home{
+.content_whiteelasteen_home{
 	float:left;width:47%;margin-left:3%
 }
-.content_whiteadiva_home h1 a,.content_whiteadiva_home h2 a{
+.content_whiteelasteen_home h1 a,.content_whiteelasteen_home h2 a{
 	float:left;width:100%;margin-top:14%;font-size:40px;font-family:'Playfair Display', serif;font-weight:400
 }
-.content_whiteadiva_home p{
+.content_whiteelasteen_home p{
 	float:left;width:100%;margin-top:10px;line-height:23px;text-align:justify;font-size:16px
 }
-.content_whiteadiva_home a.button_order_home{
+.content_whiteelasteen_home a.button_order_home{
 	float:left;padding:10px 20px;background:#000;text-align:center;-webkit-transition:all .2s linear;-moz-transition:all .2s linear;transition:all .2s linear;color:#fff;margin-top:20px;font-size:14px
 }
-.content_whiteadiva_home a.button_order_home:hover{
+.content_whiteelasteen_home a.button_order_home:hover{
 	background:#ce8007
 }
-.content_adivawater_home{
+.content_elasteenwater_home{
 	float:left;width:47%;text-align:right;margin-right:3%
 }
-.content_adivawater_home h2 a{
+.content_elasteenwater_home h2 a{
 	float:left;width:100%;text-align:right;margin-top:14%;font-size:40px;font-family:'Playfair Display', serif;font-weight:400
 }
-.content_adivawater_home p{
+.content_elasteenwater_home p{
 	float:left;width:100%;margin-top:10px;line-height:23px;text-align:right;font-size:16px
 }
-.content_adivawater_home a.button_order_home{
+.content_elasteenwater_home a.button_order_home{
 	float:right;padding:10px 20px;background:#ea965e;text-align:center;-webkit-transition:all .2s linear;-moz-transition:all .2s linear;transition:all .2s linear;color:#fff;margin-top:20px;font-size:14px
 }
-.content_adivawater_home a.button_order_home:hover{
+.content_elasteenwater_home a.button_order_home:hover{
 	background:#000
 }
-#gold_adiva_home{
+#gold_elasteen_home{
 	width:100%;float:left;margin-bottom:20px
 }
-#gold_adiva_home a.button_order_home{
+#gold_elasteen_home a.button_order_home{
 	background:#ee677e
 }
-#gold_adiva_home a:hover{
+#gold_elasteen_home a:hover{
 	background:#000
 }
-.adiva_water_home_mobile{
+.elasteen_water_home_mobile{
 	display:none
 }
-#gold_adiva_home h2 a:hover{
+#gold_elasteen_home h2 a:hover{
 	background:#fff !important
 }
 .nghevien_background img.micell_home_pc{
@@ -9381,10 +9381,10 @@ img.micell_da{
 .n_menu_pc_tmp ul li.li_menu ul li a{
 	font-size:13px
 }
-.content_whiteadiva_home h1,.content_adivawater_home h1{
+.content_whiteelasteen_home h1,.content_elasteenwater_home h1{
 	margin-top:2%
 }
-.content_whiteadiva_home p br,.content_adivawater_home p br{
+.content_whiteelasteen_home p br,.content_elasteenwater_home p br{
 	display:none !important
 }
 .nghevien_background{
@@ -9429,52 +9429,52 @@ li.logo_menu img{
 .menu_icon_mobile span{
 	text-align:right;color:#fff;font-size:28px
 }
-.adiva_white_home img,.adiva_water_home img,.content_whiteadiva_home,.content_adivawater_home{
+.elasteen_white_home img,.elasteen_water_home img,.content_whiteelasteen_home,.content_elasteenwater_home{
 	width:100%;margin-left:0;text-align:center;margin-right:0
 }
-.content_adivawater_home{
+.content_elasteenwater_home{
 	text-align:center
 }
-.content_adivawater_home h2,.content_adivawater_home p,.content_whiteadiva_home h1,.content_whiteadiva_home h2,.content_whiteadiva_home p{
+.content_elasteenwater_home h2,.content_elasteenwater_home p,.content_whiteelasteen_home h1,.content_whiteelasteen_home h2,.content_whiteelasteen_home p{
 	text-align:center
 }
-.adiva_water_home_mobile{
+.elasteen_water_home_mobile{
 	display:block
 }
-.content_adivawater_home p,.content_whiteadiva_home p{
+.content_elasteenwater_home p,.content_whiteelasteen_home p{
 	margin-bottom:20px
 }
-.adiva_water_home_pc{
+.elasteen_water_home_pc{
 	display:none
 }
-.content_adivawater_home h2{
+.content_elasteenwater_home h2{
 	margin-top:0;text-align:center
 }
-.adiva_water_home{
+.elasteen_water_home{
 	margin-top:40px
 }
 #video,#boxnghevien{
 	margin-top:20px
 }
-.adiva_white_home{
+.elasteen_white_home{
 	margin-top:0
 }
-.adiva_water_home img,.adiva_white_home img{
+.elasteen_water_home img,.elasteen_white_home img{
 	margin-bottom:20px
 }
-.content_adivawater_home a,.content_whiteadiva_home a{
+.content_elasteenwater_home a,.content_whiteelasteen_home a{
 	float:none !important;margin:auto;width:99px;margin-top:10px
 }
-#gold_adiva_home h2{
+#gold_elasteen_home h2{
 	margin-top:0
 }
 .nghevien_background{
 	height:auto
 }
-.content_whiteadiva_home h1 a,.content_whiteadiva_home h2 a{
+.content_whiteelasteen_home h1 a,.content_whiteelasteen_home h2 a{
 	margin-top:0;font-size:30px
 }
-.content_adivawater_home h2 a{
+.content_elasteenwater_home h2 a{
 	margin-top:0 !important;text-align:center !important;font-size:30px
 }
 .content_nghesvien{
@@ -9510,121 +9510,121 @@ img.micell_home_pc{
 img{
 	max-width:100%
 }
-#adiva_white{
+#elasteen_white{
 	float:left;width:100%
 }
-.top_adivawhite{
+.top_elasteenwhite{
 	float:left;width:100%;position:relative
 }
-.img_avatar_adiva_white{
+.img_avatar_elasteen_white{
 	position:absolute;top:0;left:0;float:left;width:50%
 }
-.img_avatar_adiva_white img{
+.img_avatar_elasteen_white img{
 	float:right;width:auto;max-width:none !important
 }
-.infor_adiva{
+.infor_elasteen{
 	float:right;width:50%;height:600px;margin-top:100px
 }
-.infor_adiva h1{
+.infor_elasteen h1{
 	font-family:'Playfair Display', serif;font-size:50px;float:left;font-weight:400;width:100%
 }
-.infor_adiva h1 span{
+.infor_elasteen h1 span{
 	font-size:40px;font-weight:400;font-family:'Playfair Display', serif
 }
-.infor_adiva p{
+.infor_elasteen p{
 	text-align:justify;line-height:23px;float:left;width:100%;margin-top:20px
 }
-.price_adivawhite{
+.price_elasteenwhite{
 	float:left;width:100%;margin-top:10px
 }
-.price_adivawhite span{
+.price_elasteenwhite span{
 	font-size:18px;color:#f63959
 }
-.button_buy_adivawhite{
+.button_buy_elasteenwhite{
 	float:left;padding:15px 25px;webkit-transition:all .5s ease;-moz-transition:all .5s ease;-o-transition:all .5s ease;-ms-transition:all .5s ease;transition:all .5s ease;margin-top:10px;background:#ec5972;color:#fff;text-align:center
 }
-.button_buy_adivawhite:hover{
+.button_buy_elasteenwhite:hover{
 	background:#000
 }
-.button_buy_adivawhite a{
+.button_buy_elasteenwhite a{
 	color:#fff;text-transform:uppercase;font-size:16px
 }
-.img_avatar_adiva_white img.adiva_white_mobile{
+.img_avatar_elasteen_white img.elasteen_white_mobile{
 	display:none
 }
-.bg_adivawhite{
+.bg_elasteenwhite{
 	float:left;width:100%
 }
-.bg_adivawhite2{
-	float:left;position:relative;margin-bottom:40px;width:100%;height:573px;background:url(/statics/img/bg_adivawhite2.png) no-repeat center
+.bg_elasteenwhite2{
+	float:left;position:relative;margin-bottom:40px;width:100%;height:573px;background:url(/statics/img/bg_elasteenwhite2.png) no-repeat center
 }
-.bg_adivawhite2 .box_adivawhite{
+.bg_elasteenwhite2 .box_elasteenwhite{
 	float:left;width:50%;margin-left:60px;margin-top:15%
 }
-.box_adivawhite img{
+.box_elasteenwhite img{
 	width:auto !important;float:left;width:18px;margin-top:3px
 }
-.box_adivawhite ul{
+.box_elasteenwhite ul{
 	width:100%
 }
-.box_adivawhite ul li{
+.box_elasteenwhite ul li{
 	float:left;margin-top:10px;width:100%;max-width:475px
 }
-.box_adivawhite ul li span{
+.box_elasteenwhite ul li span{
 	float:left;margin-left:5px;width:90%;line-height:23px;text-align:justify
 }
-.box_adivawhite p{
+.box_elasteenwhite p{
 	float:left;line-height:23px;text-align:justify;width:100%;max-width:475px;margin-top:10px
 }
-.box_adivawhite h2{
+.box_elasteenwhite h2{
 	font-size:28px;float:left;margin-bottom:10px;font-weight:400;text-transform:uppercase;width:100%
 }
-.box_adivawhite .owl-prev{
+.box_elasteenwhite .owl-prev{
 	font-size:0px;background:url(/statics/img/icon_prev_click.png) no-repeat top left !important;width:44px;height:46px;float:left;margin-left:-60px;opacity:1
 }
-.box_adivawhite .owl-next{
+.box_elasteenwhite .owl-next{
 	font-size:0px;background:url(/statics/img/icon_next_click.png) no-repeat top left !important;width:44px;height:46px;opacity:1
 }
-.box_adivawhite .owl-next:hover{
+.box_elasteenwhite .owl-next:hover{
 	background:url(/statics/img/icon_next_click.png) no-repeat top left !important
 }
-.box_adivawhite .owl-prev:hover{
+.box_elasteenwhite .owl-prev:hover{
 	background:url(/statics/img/icon_prev_click.png) no-repeat top left !important
 }
-.box_adivawhite .owl-pagination{
+.box_elasteenwhite .owl-pagination{
 	width:100px;margin:auto;position:relative;right:auto;margin-top:20px
 }
-.img_adivawhite_page2{
+.img_elasteenwhite_page2{
 	display:none
 }
 .woman_congdung img{
 	width:100%
 }
-.congdung_adivawhite{
+.congdung_elasteenwhite{
 	float:left;margin-top:18%;width:50%
 }
-.hd_adivawhite{
+.hd_elasteenwhite{
 	float:left;width:50%
 }
-.hd_adivawhite img{
+.hd_elasteenwhite img{
 	width:100%
 }
-.congdung_adivawhite h2{
+.congdung_elasteenwhite h2{
 	font-weight:400;float:left;width:100%;text-transform:uppercase;margin-bottom:20px
 }
-.congdung_adivawhite ul{
+.congdung_elasteenwhite ul{
 	float:left;width:100%
 }
-.congdung_adivawhite ul li{
+.congdung_elasteenwhite ul li{
 	float:left;width:100%;margin-bottom:10px
 }
-.congdung_adivawhite ul li img{
+.congdung_elasteenwhite ul li img{
 	float:left;margin-top:8px;margin-right:7px;width:8px
 }
-.congdung_adivawhite ul li span{
+.congdung_elasteenwhite ul li span{
 	float:left;width:90%;line-height:23px;text-align:justify
 }
-.bg_adivawhite3{
+.bg_elasteenwhite3{
 	float:left;position:relative;margin:40px 0;width:100%;height:573px;background:url(/statics/img/bg_white3.png) no-repeat center
 }
 .thanhphan{
@@ -9636,28 +9636,28 @@ img{
 .content_thanhphan{
 	float:left;width:100%
 }
-.uudiem_adivawhite{
+.uudiem_elasteenwhite{
 	float:right;margin-top:14%;width:40%;text-align:center;margin-right:60px
 }
-.uudiem_adivawhite h2,.quycach_sp_adivawhite h2{
+.uudiem_elasteenwhite h2,.quycach_sp_elasteenwhite h2{
 	float:left;width:100%;font-size:40px;text-align:center;margin-bottom:20px;font-weight:400;text-transform:uppercase;font-family:'Playfair Display', serif
 }
-.uudiem_adivawhite h2 span{
+.uudiem_elasteenwhite h2 span{
 	font-family:'Playfair Display', serif;font-size:55px
 }
-.uudiem_adivawhite h2 b{
+.uudiem_elasteenwhite h2 b{
 	font-family:'Playfair Display', serif;font-weight:400;font-size:35px
 }
-.uudiem_adivawhite .item{
+.uudiem_elasteenwhite .item{
 	text-align:center
 }
-.uudiem_adivawhite .item img,.uudiem_adivawhite .item p{
+.uudiem_elasteenwhite .item img,.uudiem_elasteenwhite .item p{
 	text-align:center;float:none
 }
-.uudiem_adivawhite .owl-next,.uudiem_adivawhite .owl-prev{
+.uudiem_elasteenwhite .owl-next,.uudiem_elasteenwhite .owl-prev{
 	margin:60px 0 0
 }
-.img_adivaWhite_3{
+.img_elasteenWhite_3{
 	display:none
 }
 .circel_tp{
@@ -9675,7 +9675,7 @@ img{
 .circel_tp p b{
 	float:left;width:100%;height:85px
 }
-.quycach_sp_adivawhite{
+.quycach_sp_elasteenwhite{
 	float:left;width:100%;margin:40px 0 60px
 }
 .box_quycach{
@@ -9701,34 +9701,34 @@ img{
 }
 
 @media (max-width:1920px){
-	.section_adiva_white_cd{
+	.section_elasteen_white_cd{
 	background:url(/statics/img/white_bg_page2_pc_1920.jpg) no-repeat left top;height:400px
 }
-.postid-63395 .section_adiva_white_cd{
+.postid-63395 .section_elasteen_white_cd{
 	background:url(/statics/img/white-vien-1-1920a.jpg) no-repeat left top;height:400px
 }
-.postid-63395 .section_adiva_white_2{
+.postid-63395 .section_elasteen_white_2{
 	background:url(/statics/img/white-vien-2-1920a.jpg) no-repeat center top;height:500px;width:100%;float:left;margin-top:30px;background-size:cover
 }
 
 }
 @media (max-width:1600px){
-	.white_adivatp{
+	.white_elasteentp{
 	margin-top:8%
 }
-.section_adiva_white_cd{
+.section_elasteen_white_cd{
 	background:url(/statics/img/white_bg_page2_pc.jpg) no-repeat left top;height:400px
 }
-.postid-63395 .section_adiva_white_cd{
+.postid-63395 .section_elasteen_white_cd{
 	background:url(/statics/img/white-vien-1a.jpg) no-repeat left top;height:400px
 }
 .container_white{
 	width:900px !important;position:relative
 }
-.white_adiva_cd{
+.white_elasteen_cd{
 	width:100%;margin:40px 0;position:relative
 }
-.section_adiva_white_2,.postid-63395 .section_adiva_white_2{
+.section_elasteen_white_2,.postid-63395 .section_elasteen_white_2{
 	background-image:none;background-color:#f8bac7;overflow:hidden;height:auto
 }
 img.uudiem_new_container{
@@ -9737,34 +9737,34 @@ img.uudiem_new_container{
 
 }
 @media (max-width:1300px){
-	.box_adivawhite .owl-next{
+	.box_elasteenwhite .owl-next{
 	margin-right:-15px
 }
 
 }
 @media (max-width:1200px){
-	.img_avatar_adiva_white img{
+	.img_avatar_elasteen_white img{
 	display:none;width:100%
 }
 .lamsang_txt h2{
 	font-size:26px
 }
-.img_avatar_adiva_white img.adiva_white_mobile{
+.img_avatar_elasteen_white img.elasteen_white_mobile{
 	display:block
 }
-.infor_adiva{
+.infor_elasteen{
 	margin-top:30px
 }
-.section_adiva_white_6{
+.section_elasteen_white_6{
 	background:#f8bac7 url(/statics/img/white_bg_page2_pc.jpg) no-repeat center top;background-size:cover
 }
-.postid-63395 .section_adiva_white_6{
+.postid-63395 .section_elasteen_white_6{
 	background:#f8bac7 url(/statics/img/white-vien-5.jpg) no-repeat center top;background-size:cover
 }
-.section_adiva_white_cd{
+.section_elasteen_white_cd{
 	background:#f8bac7 url(/statics/img/bg_white2.png) no-repeat left top
 }
-.white_adiva_cd h2{
+.white_elasteen_cd h2{
 	font-size:26px
 }
 .nd_lamsang_white h2{
@@ -9782,41 +9782,41 @@ img.uudiem_new_container{
 img.uudiem_new_container{
 	right:-150px
 }
-.bg_adivawhite2{
-	float:left;position:relative;width:100%;height:573px;background:url(//adiva.com.vn/wp-content/themes/adiva/assets/css/../images/bg_adivawhite2_mobile.png) no-repeat center
+.bg_elasteenwhite2{
+	float:left;position:relative;width:100%;height:573px;background:url(//elasteen.com.vn/wp-content/themes/elasteen/assets/css/../images/bg_elasteenwhite2_mobile.png) no-repeat center
 }
-.infor_adiva{
+.infor_elasteen{
 	height:460px
 }
-.congdung_adivawhite{
+.congdung_elasteenwhite{
 	margin-top:30px
 }
-.uudiem_adivawhite h2{
+.uudiem_elasteenwhite h2{
 	font-size:30px
 }
-.uudiem_adivawhite h2 b{
+.uudiem_elasteenwhite h2 b{
 	font-size:25px
 }
-.uudiem_adivawhite h2 span{
+.uudiem_elasteenwhite h2 span{
 	font-size:40px
 }
 
 .box_quycach{
 	width:100%;margin:0 0 20px
 }
-.uudiem_adivawhite{
+.uudiem_elasteenwhite{
 	margin-top:23%;margin-right:0
 }
-.congdung_adivawhite2{
+.congdung_elasteenwhite2{
 	width:45%;margin-right:5%
 }
-.congdung_adivawhite h2{
+.congdung_elasteenwhite h2{
 	font-size:26px
 }
 
 }
 @media (max-width:767px){
-	.img_avatar_adiva_white{
+	.img_avatar_elasteen_white{
 	position:relative;float:left;width:100%
 }
 .box_quycach ul li{
@@ -9828,58 +9828,58 @@ img.uudiem_new_container{
 .thanhphan{
 	margin-top:0
 }
-.infor_adiva{
+.infor_elasteen{
 	height:auto;float:left;width:100%
 }
-.infor_adiva h1{
+.infor_elasteen h1{
 	font-size:45px
 }
-.bg_adivawhite2{
+.bg_elasteenwhite2{
 	float:left;position:relative;margin-top:20px;width:100%;height:auto;background:0 0
 }
-.bg_adivawhite2 .box_adivawhite{
+.bg_elasteenwhite2 .box_elasteenwhite{
 	float:left;width:100%;margin-left:0;margin-top:5%
 }
-.box_adivawhite .owl-prev{
+.box_elasteenwhite .owl-prev{
 	margin-left:0
 }
-.box_adivawhite .owl-next{
+.box_elasteenwhite .owl-next{
 	margin-right:0
 }
-.box_adivawhite h2{
+.box_elasteenwhite h2{
 	font-size:35px
 }
-.box_adivawhite img{
+.box_elasteenwhite img{
 	display:block !important
 }
-.img_adivawhite_page2{
+.img_elasteenwhite_page2{
 	display:block;width:100%
 }
-.img_adivawhite_page2 img{
+.img_elasteenwhite_page2 img{
 	width:100%
 }
-.woman_congdung,.congdung_adivawhite{
+.woman_congdung,.congdung_elasteenwhite{
 	width:100%
 }
-.congdung_adivawhite h2 span{
+.congdung_elasteenwhite h2 span{
 	font-size:45px
 }
-.img_adivaWhite_3,.hd_adivawhite{
+.img_elasteenWhite_3,.hd_elasteenwhite{
 	display:block;float:left;width:100%
 }
-.img_adivaWhite_3 img{
+.img_elasteenWhite_3 img{
 	width:100%
 }
-.bg_adivawhite3{
+.bg_elasteenwhite3{
 	background:0 0;height:auto
 }
-.uudiem_adivawhite{
+.uudiem_elasteenwhite{
 	width:100%;margin:20px 0
 }
-.uudiem_adivawhite img{
+.uudiem_elasteenwhite img{
 	margin:auto
 }
-.bg_adivawhite{
+.bg_elasteenwhite{
 	margin-top:20px
 }
 #owl-demo_tp{
@@ -9888,25 +9888,25 @@ img.uudiem_new_container{
 .circel_tp{
 	width:100%
 }
-.section_adiva_white_cd{
+.section_elasteen_white_cd{
 	height:auto;background-size:cover !important;background:url(/statics/img/white_bg_page2_mobile.jpg) no-repeat center top;margin-bottom:20px
 }
-.postid-63395 .section_adiva_white_cd{
+.postid-63395 .section_elasteen_white_cd{
 	height:auto;background-size:cover !important;background:url(/statics/img/white-vien-1-mobilea.jpg) no-repeat center top;margin-bottom:20px
 }
-.white_adiva_cd{
+.white_elasteen_cd{
 	width:100%;margin:40px 0 0
 }
-.section_adiva_white_2{
+.section_elasteen_white_2{
 	background:#f8bac7;background-size:cover;height:auto
 }
 img.uudiem_vtr{
 	display:block;margin-top:-40px;float:left
 }
-.congdung_adivawhite ul li span{
+.congdung_elasteenwhite ul li span{
 	float:left;width:92%
 }
-.white_adiva_cd h2{
+.white_elasteen_cd h2{
 	text-align:center
 }
 .nd_lamsang_white h2{
@@ -9915,7 +9915,7 @@ img.uudiem_vtr{
 .white_hd_bg,.postid-63395 .white_hd_bg{
 	background:0 0;height:auto;margin-top:-20px
 }
-.white_hd_bg .hd_adiva_white h2,.section_adiva_white_2 h2,.section_adiva_white_cd h2{
+.white_hd_bg .hd_elasteen_white h2,.section_elasteen_white_2 h2,.section_elasteen_white_cd h2{
 	text-align:center !important;font-size:22px !important;text-transform:none !important
 }
 .lamsang_txt h2{
@@ -9933,28 +9933,28 @@ img.uudiem_vtr{
 img{
 	max-width:100%
 }
-#adiva_white{
+#elasteen_white{
 	float:left;width:100%
 }
-#top_adiva_gold{
+#top_elasteen_gold{
 	float:left;width:100%
 }
-#top_adiva_gold img{
+#top_elasteen_gold img{
 	float:left;width:37%;margin-right:3%
 }
-.information_adiva_gold{
+.information_elasteen_gold{
 	float:left;width:60%
 }
-.information_adiva_gold h1{
+.information_elasteen_gold h1{
 	float:left;width:100%;font-size:32px;margin-bottom:20px
 }
-.information_adiva_gold p{
+.information_elasteen_gold p{
 	float:left;width:100%;line-height:23px;font-size:14px
 }
-.button_buy_elasteen,.button_buy_adivawhite{
+.button_buy_elasteen,.button_buy_elasteenwhite{
 	float:left;padding:15px 25px;webkit-transition:all .5s ease;-moz-transition:all .5s ease;-o-transition:all .5s ease;-ms-transition:all .5s ease;transition:all .5s ease;margin-top:10px;background:#000;color:#fff;text-align:center;border-radius:4px
 }
-.button_buy_adivawhite:hover{
+.button_buy_elasteenwhite:hover{
 	background:#ec687f
 }
 .button_buy_elasteenwhite a{
@@ -9975,112 +9975,112 @@ img{
 .section_elasteen_gold_2{
 	background:url(/statics/img/elasteen_section2.jpg) no-repeat center top;height:468px;width:100%;float:left;margin-top:30px
 }
-.section_adiva_gold_cd{
+.section_elasteen_gold_cd{
 	background:url(/statics/img/bg_cd.png) no-repeat center top;height:468px;width:100%;float:left;margin-top:30px
 }
-.gold_adiva_thanhphan{
+.gold_elasteen_thanhphan{
 	float:left;width:45%;color:#fff;margin-top:8%;margin-left:8%
 }
-.gold_adiva_cd{
+.gold_elasteen_cd{
 	float:right;width:30%;color:#fff;margin-top:5%
 }
-.gold_adiva_thanhphan h2,.gold_adiva_thanhphan p,.gold_adiva_thanhphan span{
+.gold_elasteen_thanhphan h2,.gold_elasteen_thanhphan p,.gold_elasteen_thanhphan span{
 	color:#fff
 }
-.gold_adiva_thanhphan .owl-next{
+.gold_elasteen_thanhphan .owl-next{
 	background:url(/statics/img/icon_next_click.png) no-repeat top left !important
 }
-.gold_adiva_thanhphan .owl-prev{
+.gold_elasteen_thanhphan .owl-prev{
 	background:url(/statics/img/icon_prev_click.png) no-repeat top left !important
 }
-.gold_adiva_thanhphan .owl-theme .owl-controls .owl-page span{
+.gold_elasteen_thanhphan .owl-theme .owl-controls .owl-page span{
 	background:#fff
 }
-.section_adiva_gold_3{
+.section_elasteen_gold_3{
 	float:left;width:100%;margin-top:30px
 }
-.title_adivagold{
+.title_elasteengold{
 	float:left;margin-bottom:20px;width:100%;text-align:center
 }
-.title_adivagold h2{
+.title_elasteengold h2{
 	font-size:28px;text-transform:uppercase
 }
-.title_adivagold p{
+.title_elasteengold p{
 	float:left;width:100%;line-height:23px;font-size:16px
 }
-.section_adiva_gold_3 .owl-buttons{
+.section_elasteen_gold_3 .owl-buttons{
 	z-index:9;top:60%
 }
-.section_adiva_gold_3 .item p{
+.section_elasteen_gold_3 .item p{
 	margin-top:15px;text-align:center
 }
-.section_adiva_gold_3 .owl-pagination{
+.section_elasteen_gold_3 .owl-pagination{
 	display:none
 }
-.section_adiva_gold_4{
+.section_elasteen_gold_4{
 	background:url(/statics/img/seciton_3.png) no-repeat center top;float:left;width:100%;height:484px;margin-top:30px
 }
-.congdung_adiva_gold{
+.congdung_elasteen_gold{
 	float:left;margin-top:11%;width:50%
 }
-.congdung_adiva_gold h2{
+.congdung_elasteen_gold h2{
 	font-size:28px;text-transform:uppercase;float:left;width:100%
 }
-.section_adiva_gold_5,.section_adiva_gold_7{
+.section_elasteen_gold_5,.section_elasteen_gold_7{
 	float:left;width:100%;margin-top:30px
 }
-.section_adiva_gold_5 h2 span{
+.section_elasteen_gold_5 h2 span{
 	font-size:35px !important
 }
-.section_adiva_gold_6{
+.section_elasteen_gold_6{
 	background:url(/statics/img/seciton_4.jpg) no-repeat center top;float:left;width:100%;height:360px;margin-top:30px
 }
-.hd_adiva_gold{
+.hd_elasteen_gold{
 	padding:5%;width:50%;float:right
 }
-.hd_adiva_gold h2{
+.hd_elasteen_gold h2{
 	color:#fff;font-size:28px;text-transform:uppercase;float:left;width:100%
 }
-.hd_adiva_gold p,.hd_adiva_gold b{
+.hd_elasteen_gold p,.hd_elasteen_gold b{
 	color:#fff
 }
-.hd_adiva_gold p,.congdung_adiva_gold p{
+.hd_elasteen_gold p,.congdung_elasteen_gold p{
 	float:left;width:100%;line-height:23px;padding-top:15px
 }
-.section_adiva_gold_7 li{
+.section_elasteen_gold_7 li{
 	margin:0 !important
 }
-.section_adiva_gold_7 h2{
+.section_elasteen_gold_7 h2{
 	text-align:center;float:left;margin-bottom:50px;width:100%;font-size:28px;text-transform:uppercase
 }
-.section_adiva_gold_5 h2{
+.section_elasteen_gold_5 h2{
 	font-weight:700
 }
-.section_adiva_gold_7{
+.section_elasteen_gold_7{
 	margin-bottom:35px
 }
-.section_adiva_gold_7 .box_quycach ul li a:hover{
+.section_elasteen_gold_7 .box_quycach ul li a:hover{
 	background:#f3ae81
 }
-img.adiva_gold_water{
+img.elasteen_gold_water{
 	display:none
 }
-.adiva_gold_icon_mobile{
+.elasteen_gold_icon_mobile{
 	display:none
 }
-.congdung_adiva_gold img.congdung_adiva_gold_mobile{
+.congdung_elasteen_gold img.congdung_elasteen_gold_mobile{
 	display:none
 }
-img.adiva_gold_lo2,img.adiva_gold_hop2{
+img.elasteen_gold_lo2,img.elasteen_gold_hop2{
 	display:none
 }
-.section_adiva_gold_2 img.adiva_gold_icon_mobile{
+.section_elasteen_gold_2 img.elasteen_gold_icon_mobile{
 	display:none !important
 }
-.section_adiva_gold_2 img{
+.section_elasteen_gold_2 img{
 	width:auto !important;float:left;width:18px;margin-top:5px
 }
-img.congdung_adiva_gold_mobile{
+img.congdung_elasteen_gold_mobile{
 	display:none
 }
 #breadcrumb{
@@ -10089,88 +10089,88 @@ img.congdung_adiva_gold_mobile{
 .woman_congdung_mobile{
 	display:none
 }
-.box_adivawhite h2{
+.box_elasteenwhite h2{
 	font-size:28px;float:left;margin-bottom:10px;font-weight:400;text-transform:uppercase;width:100%
 }
-.congdung_adivawhite h2{
+.congdung_elasteenwhite h2{
 	font-size:28px;font-weight:400;float:left;width:100%;text-transform:uppercase;margin-bottom:20px
 }
-.congdung_adivawhite h2,.section_adiva_gold_4 h2,.title_adivagold h2,.section_adiva_gold_7 h2,.section_adiva_gold_2 h2,.section_adiva_gold_6 h2{
+.congdung_elasteenwhite h2,.section_elasteen_gold_4 h2,.title_elasteengold h2,.section_elasteen_gold_7 h2,.section_elasteen_gold_2 h2,.section_elasteen_gold_6 h2{
 	text-transform:none !important
 }
 .woman_congdung{
 	float:left;width:50% !important;margin-right:5%
 }
-.congdung_adivawhite{
+.congdung_elasteenwhite{
 	width:40% !important;margin-right:0 !important
 }
-.congdung_adivagold{
+.congdung_elasteengold{
 	float:left;z-index:9999;width:100%;position:relative
 }
-.gold_adiva_cd h2{
+.gold_elasteen_cd h2{
 	font-size:28px;float:left;margin-bottom:10px;font-weight:400;width:100%
 }
-.gold_adiva_cd ul{
+.gold_elasteen_cd ul{
 	margin-top:20px;float:left;width:100%
 }
-.gold_adiva_cd ul li{
+.gold_elasteen_cd ul li{
 	float:left;width:100%;margin-bottom:15px
 }
-.gold_adiva_cd ul li p{
+.gold_elasteen_cd ul li p{
 	float:left;width:90%
 }
-.gold_adiva_cd ul li img{
+.gold_elasteen_cd ul li img{
 	float:left;width:10px;margin:2px 10px 0 0
 }
 .br_none br{
 	display:none !important
 }
-.congdung_adivawhite ul li img{
+.congdung_elasteenwhite ul li img{
 	width:10px
 }
-.congdung_adivawhite ul li span b{
+.congdung_elasteenwhite ul li span b{
 	font-weight:700
 }
-.section_adiva_white_cd{
+.section_elasteen_white_cd{
 	background:url(/statics/img/seciton_1.png) no-repeat center top;height:500px;width:100%;overflow:hidden;float:left;margin-top:30px;background-size:cover
 }
-.section_adiva_white_2{
+.section_elasteen_white_2{
 	background:url(/statics/img/seciton_1.png) no-repeat center top;height:500px;width:100%;float:left;margin-top:30px;background-size:cover
 }
-.section_adiva_white_6{
+.section_elasteen_white_6{
 	background:url(/statics/img/seciton_2.jpg) no-repeat center top;float:left;width:100%;height:362px;margin-top:30px
 }
-.postid-63395 .section_adiva_white_6{
+.postid-63395 .section_elasteen_white_6{
 	background:url(/statics/img/seciton_5.jpg) no-repeat center top;float:left;width:100%;height:362px;margin-top:30px
 }
-.white_adivatp{
+.white_elasteentp{
 	float:right !important;margin-top:9%
 }
-.white_adivatp h2,.white_adivatp p,.white_adivatp span{
+.white_elasteentp h2,.white_elasteentp p,.white_elasteentp span{
 	color:#000 !important
 }
-.white_adiva_cd{
+.white_elasteen_cd{
 	float:left;width:50%;color:#fff;margin-top:8%
 }
-.white_adiva_cd h2{
+.white_elasteen_cd h2{
 	font-size:28px;float:left;margin-bottom:10px;font-weight:400;width:100%
 }
-.white_adiva_cd ul{
+.white_elasteen_cd ul{
 	margin-top:20px;float:left;width:100%
 }
-.white_adiva_cd ul li{
+.white_elasteen_cd ul li{
 	float:left;width:100%;margin-bottom:15px
 }
-.white_adiva_cd ul li p{
+.white_elasteen_cd ul li p{
 	float:left;width:90%
 }
-.white_adiva_cd ul li img{
+.white_elasteen_cd ul li img{
 	float:left;width:10px;margin:2px 10px 0 0
 }
-.hd_adiva_white{
+.hd_elasteen_white{
 	margin-top:4%
 }
-.hd_adiva_white h2,.hd_adiva_white p,.hd_adiva_white b{
+.hd_elasteen_white h2,.hd_elasteen_white p,.hd_elasteen_white b{
 	color:#000
 }
 .nd_lamsang_white h2{
@@ -10182,10 +10182,10 @@ img.congdung_adiva_gold_mobile{
 .white_quyc ul li a:hover{
 	background:#ec687f !important
 }
-.hd_adiva_white ul{
+.hd_elasteen_white ul{
 	float:left;width:100%;margin-top:15px
 }
-.hd_adiva_white ul li{
+.hd_elasteen_white ul li{
 	float:left;width:100%;margin:5px 0
 }
 .white_hd_bg h2{
@@ -10197,7 +10197,7 @@ img.uudiem_vtr{
 img.uudiem_new_container{
 	display:none
 }
-.title_adivagold p{
+.title_elasteengold p{
 	margin-top:15px
 }
 #w_lamsang_white h2{
@@ -10205,172 +10205,172 @@ img.uudiem_new_container{
 }
 
 @media (max-width:850px){
-	.information_adiva_gold h1,.hd_adiva_gold h2,.congdung_adiva_gold h2,.title_adivagold h2,.box_adivawhite h2,.section_adiva_gold_7 h2{
+	.information_elasteen_gold h1,.hd_elasteen_gold h2,.congdung_elasteen_gold h2,.title_elasteengold h2,.box_elasteenwhite h2,.section_elasteen_gold_7 h2{
 	font-size:26px
 }
-.section_adiva_gold_5 h2 span{
+.section_elasteen_gold_5 h2 span{
 	font-size:30px !important
 }
-.section_adiva_gold_2{
+.section_elasteen_gold_2{
 	background:url(/statics/img/section2_tablet.png) no-repeat center top
 }
-.section_adiva_gold_4{
+.section_elasteen_gold_4{
 	background:url(/statics/img/section_3_tablet.png) no-repeat center top
 }
-.white_adivatp{
+.white_elasteentp{
 	margin-top:8%
 }
 
 }
 @media (max-width:767px){
-	#top_adiva_gold img,.information_adiva_gold,.gold_adiva_thanhphan,.section_adiva_gold_2,.congdung_adiva_gold,.hd_adiva_gold,.hd_adiva_gold{
+	#top_elasteen_gold img,.information_elasteen_gold,.gold_elasteen_thanhphan,.section_elasteen_gold_2,.congdung_elasteen_gold,.hd_elasteen_gold,.hd_elasteen_gold{
 	width:100% !important;margin-left:0 !important;margin-right:0 !important;margin-bottom:20px !important;height:auto !important;padding-left:0 !important;padding-right:0 !important
 }
-.section_adiva_gold_2{
+.section_elasteen_gold_2{
 	background:url(/statics/img/thanhphan_mobile.jpg) no-repeat center top;width:100%;height:auto !important;background-size:cover
 }
-.gold_adiva_thanhphan{
+.gold_elasteen_thanhphan{
 	margin-top:130%!important
 }
-.gold_adiva_thanhphan h2,.gold_adiva_thanhphan p,.gold_adiva_thanhphan span{
+.gold_elasteen_thanhphan h2,.gold_elasteen_thanhphan p,.gold_elasteen_thanhphan span{
 	color:#000
 }
-.information_adiva_gold p{
+.information_elasteen_gold p{
 	text-align:justify
 }
-img.adiva_gold_water{
+img.elasteen_gold_water{
 	display:block;margin-bottom:20px
 }
-.gold_adiva_cd ul li span{
+.gold_elasteen_cd ul li span{
 	margin:4px 10px 0 0
 }
-.adiva_gold_icon_mobile{
+.elasteen_gold_icon_mobile{
 	display:block
 }
-.section_adiva_gold_3 .item{
+.section_elasteen_gold_3 .item{
 	margin:0 !important
 }
-.adiva_gold_icon_pc{
+.elasteen_gold_icon_pc{
 	display:none
 }
-.gold_adiva_thanhphan .owl-prev{
+.gold_elasteen_thanhphan .owl-prev{
 	background:url(/statics/img/icon_prev_click.png) no-repeat top left !important
 }
-.gold_adiva_thanhphan .owl-next{
+.gold_elasteen_thanhphan .owl-next{
 	background:url(/statics/img/icon_next_click.png) no-repeat top left !important
 }
-.gold_adiva_thanhphan{
+.gold_elasteen_thanhphan{
 	margin-bottom:0 !important
 }
-.section_adiva_gold_2{
+.section_elasteen_gold_2{
 	margin-bottom:0 !important;margin-top:0 !important
 }
-.section_adiva_gold_4,.section_adiva_gold_6{
+.section_elasteen_gold_4,.section_elasteen_gold_6{
 	height:auto;background:0 0
 }
-.congdung_adiva_gold img.congdung_adiva_gold_mobile{
+.congdung_elasteen_gold img.congdung_elasteen_gold_mobile{
 	display:block;margin-bottom:20px
 }
-.section_adiva_gold_6{
+.section_elasteen_gold_6{
 	margin-top:0
 }
-.hd_adiva_gold h2{
+.hd_elasteen_gold h2{
 	text-align:left;margin-top:20px
 }
-.box_adivawhite ul li span{
+.box_elasteenwhite ul li span{
 	width:86%;color:#fff
 }
-.section_adiva_gold_2 h2,.section_adiva_gold_2 p{
+.section_elasteen_gold_2 h2,.section_elasteen_gold_2 p{
 	color:#fff
 }
-.section_adiva_gold_7 img{
+.section_elasteen_gold_7 img{
 	display:none
 }
-.section_adiva_gold_7 img.adiva_gold_lo2,.section_adiva_gold_7 img.adiva_gold_hop2{
+.section_elasteen_gold_7 img.elasteen_gold_lo2,.section_elasteen_gold_7 img.elasteen_gold_hop2{
 	display:block
 }
-.section_adiva_gold_2 img.adiva_gold_icon_pc{
+.section_elasteen_gold_2 img.elasteen_gold_icon_pc{
 	display:block;!important
 }
-.section_adiva_gold_2 .owl-buttons{
+.section_elasteen_gold_2 .owl-buttons{
 	top:0 !important
 }
-.section_adiva_gold_2{
+.section_elasteen_gold_2{
 	margin-bottom:30px !important
 }
-.section_adiva_gold_2 img.adiva_gold_icon_mobile{
+.section_elasteen_gold_2 img.elasteen_gold_icon_mobile{
 	display:none!important
 }
-.congdung_adivawhite h2{
+.congdung_elasteenwhite h2{
 	font-size:30px
 }
-.gold_adiva_thanhphan .owl-buttons{
+.gold_elasteen_thanhphan .owl-buttons{
 	position:absolute;top:70%;width:100%
 }
-img.congdung_adiva_gold_mobile{
+img.congdung_elasteen_gold_mobile{
 	display:block;margin-top:20px;width:100%;float:left
 }
-.section_adiva_gold_4 h2,.title_adivagold{
+.section_elasteen_gold_4 h2,.title_elasteengold{
 	text-align:left
 }
-.title_adivagold h2{
+.title_elasteengold h2{
 	padding-bottom:10px
 }
-.title_adivagold p{
+.title_elasteengold p{
 	font-size:14px
 }
-.section_adiva_gold_4 p{
+.section_elasteen_gold_4 p{
 	text-align:justify
 }
-.section_adiva_gold_6 p{
+.section_elasteen_gold_6 p{
 	text-align:justify
 }
-.section_adiva_gold_3,.gold_adiva_thanhphan,.congdung_adiva_gold,.section_adiva_gold_5{
+.section_elasteen_gold_3,.gold_elasteen_thanhphan,.congdung_elasteen_gold,.section_elasteen_gold_5{
 	margin-top:0
 }
-.hd_adiva_gold{
+.hd_elasteen_gold{
 	margin-bottom:0 !important;padding:0
 }
-.section_adiva_gold_7 h2{
+.section_elasteen_gold_7 h2{
 	margin-bottom:0
 }
-.congdung_adiva_gold{
+.congdung_elasteen_gold{
 	margin-bottom:0 !important
 }
 .woman_congdung_mobile{
 	display:block
 }
-.section_adiva_gold_7 h2{
+.section_elasteen_gold_7 h2{
 	text-align:center !important
 }
-.section_adiva_gold_cd{
+.section_elasteen_gold_cd{
 	background:0 0;height:auto
 }
-.gold_adiva_cd{
+.gold_elasteen_cd{
 	float:left;width:100%
 }
-.gold_adiva_cd ul li span{
+.gold_elasteen_cd ul li span{
 	background:#000;height:7px;width:7px
 }
 .woman_congdung{
 	float:left;width:100% !important;margin-right:0;margin-top:20px
 }
-.body_adivagold{
+.body_elasteengold{
 	float:left;width:100% !important;text-align:left
 }
-.body_adivagold h2{
+.body_elasteengold h2{
 	text-align:left !important
 }
 .nd_lamsang_gold h2{
 	text-align:left !important;font-size:28px
 }
-.hd_adiva_gold p,.hd_adiva_gold h2,.hd_adiva_gold b{
+.hd_elasteen_gold p,.hd_elasteen_gold h2,.hd_elasteen_gold b{
 	color:#000;text-align:left !important
 }
-.congdung_adivawhite h2,.section_adiva_gold_4 h2,.title_adivagold h2,.section_adiva_gold_7 h2,.section_adiva_gold_2 h2,.section_adiva_gold_6 h2,.nd_lamsang_gold h2,.gold_adiva_cd h2{
+.congdung_elasteenwhite h2,.section_elasteen_gold_4 h2,.title_elasteengold h2,.section_elasteen_gold_7 h2,.section_elasteen_gold_2 h2,.section_elasteen_gold_6 h2,.nd_lamsang_gold h2,.gold_elasteen_cd h2{
 	font-size:22px !important;text-transform:none !important;text-align:center !important
 }
-.title_adivagold p,.nd_lamsang_gold{
+.title_elasteengold p,.nd_lamsang_gold{
 	text-align:center !important
 }
 .nd_lamsang_gold .lamsang_txt p{
@@ -10392,7 +10392,7 @@ img.congdung_adiva_gold_mobile{
 .slider_pc{
 	display:none
 }
-.slider_mobile_adivawhite{
+.slider_mobile_elasteenwhite{
 	display:block
 }
 .description_slider{
@@ -10404,13 +10404,13 @@ img.congdung_adiva_gold_mobile{
 .description_slider p{
 	text-align:left !important;font-size:14px !important
 }
-.slider_adivawhite{
+.slider_elasteenwhite{
 	height:auto
 }
 .description_slider span{
 	float:left;line-height:20px;font-size:14px;text-align:left !important;width:86%
 }
-.slider_mobile_adivawhite b{
+.slider_mobile_elasteenwhite b{
 	font-weight:400;margin-bottom:15px;font-size:15px;text-align:left !important;float:left
 }
 .info_listdieutri{
@@ -10443,7 +10443,7 @@ img.congdung_adiva_gold_mobile{
 .content_nghevien p{
 	font-size:14px;line-height:26px
 }
-.vien_adiva b{
+.vien_elasteen b{
 	font-size:20px;line-height:31px;padding-top:85px
 }
 .img_descrip span{
@@ -10452,28 +10452,28 @@ img.congdung_adiva_gold_mobile{
 .img_descrip b{
 	padding-top:59px;font-size:40px
 }
-.vien_adiva .img_descrip b{
+.vien_elasteen .img_descrip b{
 	padding-top:59px;font-size:20px
 }
-.vien_adiva .description_adiva p{
+.vien_elasteen .description_elasteen p{
 	left:134px
 }
-.vien_adiva h2,.vien_adiva .description_adiva{
+.vien_elasteen h2,.vien_elasteen .description_elasteen{
 	padding-left:20px
 }
-.text_adiva h2{
+.text_elasteen h2{
 	font-size:26px
 }
-.description_adiva p{
+.description_elasteen p{
 	top:70px;left:140px;background:#fff;font-size:16px
 }
-.description_adiva a{
+.description_elasteen a{
 	bottom:-40px;padding:10px 30px;color:#fff;font-size:14px;left:160px
 }
 .news_question ul{
 	width:auto;padding:0 0 0 15
 }
-#section1,#section2,#section3,#section4,#section5,#section6,#section7,#section8,#more_adiva1,#more_adiva2,#more_adiva3,#more_adiva4,#more_adiva5,#more_adiva6,#more_adiva7,#more_adiva8,#more_adiva9,#more_adiva10{
+#section1,#section2,#section3,#section4,#section5,#section6,#section7,#section8,#more_elasteen1,#more_elasteen2,#more_elasteen3,#more_elasteen4,#more_elasteen5,#more_elasteen6,#more_elasteen7,#more_elasteen8,#more_elasteen9,#more_elasteen10{
 	width:auto;float:none;position:relative;z-index:999;float:left;padding:20px 15px
 }
 .hanhtrinh{
@@ -10614,7 +10614,7 @@ header nav ul li{
 	.total28day p{
 	font-size:14px
 }
-.description_adiva p{
+.description_elasteen p{
 	font-size:14px
 }
 .product_box .right_product h1{
@@ -10683,10 +10683,10 @@ header nav ul li.active,header nav ul li:hover{
 header nav ul li.active a,header nav ul li:hover a{
 	color:#000
 }
-.adiva_product img{
+.elasteen_product img{
 	width:60%
 }
-#customer .adiva_product img{
+#customer .elasteen_product img{
 	width:26% !important
 }
 header nav{
@@ -10752,16 +10752,16 @@ header nav ul li.nghevien ul li:nth-child(1){
 header nav ul li.nghevien ul li img{
 	padding:0 0 15px !important;width:240px
 }
-header nav ul li.adiva{
+header nav ul li.elasteen{
 	width:49%;text-align:left !important;margin-top:0;padding:10px 0 0 1%
 }
-header nav ul li.adiva ul{
+header nav ul li.elasteen ul{
 	height:337px;width:auto;display:block;position:relative;left:auto;background:#fff;border:0;margin-top:20px;box-shadow:none;top:auto;float:left
 }
-header nav ul li.adiva ul li{
+header nav ul li.elasteen ul li{
 	text-align:left;float:left;margin-top:0;width:50%;padding:5px 0
 }
-header nav ul li.adiva ul li.adivavien,header nav ul li.adiva ul li.adivawater{
+header nav ul li.elasteen ul li.elasteenvien,header nav ul li.elasteen ul li.elasteenwater{
 	border:0 !important;width:49% !important;border-bottom:1px solid #e7e7e7 !important;padding:0 0 10px;text-align:left;margin-bottom:5px
 }
 header nav ul li.search_id{
@@ -10806,13 +10806,13 @@ header .menu_mobile{
 #wrap input[type=text]:focus span{
 	color:#000;z-index:99
 }
-header nav ul li.adiva ul li:nth-child(1) p,header nav ul li.adiva ul li:nth-child(2) p{
+header nav ul li.elasteen ul li:nth-child(1) p,header nav ul li.elasteen ul li:nth-child(2) p{
 	position:absolute;bottom:10px;padding-left:5px;font-size:11px
 }
-header nav ul li.adiva ul li:nth-child(1) img,header nav ul li.adiva ul li:nth-child(2) img{
+header nav ul li.elasteen ul li:nth-child(1) img,header nav ul li.elasteen ul li:nth-child(2) img{
 	max-width:99%
 }
-.adivawater,.adivavien{
+.elasteenwater,.elasteenvien{
 	height:203px !important
 }
 header nav ul li.nghevien ul li img{
@@ -10914,7 +10914,7 @@ header nav ul li.nghevien ul li:nth-child(1){
 .info_virus_content{
 	position:absolute;top:80px;left:29%
 }
-.description_adiva p{
+.description_elasteen p{
 	font-size:13px
 }
 .lager_item img{
@@ -10926,16 +10926,16 @@ header nav ul li.nghevien ul li:nth-child(1){
 .w_huongdan,.w_thanhphan{
 	width:100%
 }
-.text_adiva h2{
+.text_elasteen h2{
 	padding-left:5%;margin-top:34px
 }
-.description_adiva p{
+.description_elasteen p{
 	top:75px;left:115px;background:#fff
 }
-.vien_adiva .description_adiva{
+.vien_elasteen .description_elasteen{
 	padding-left:8px
 }
-.description_adiva{
+.description_elasteen{
 	padding-left:6px
 }
 .content_nghevien{
@@ -10950,7 +10950,7 @@ header nav ul li.nghevien ul li:nth-child(1){
 #tinhnghe ul li div{
 	width:180px;height:50px;padding-top:5px
 }
-.news_question,.adiva_question{
+.news_question,.elasteen_question{
 	width:100%;margin:20px 0;padding:0
 }
 .news_question ul{
@@ -10962,7 +10962,7 @@ header nav ul li.nghevien ul li:nth-child(1){
 .content_news_view ul li a{
 	margin-bottom:10px;padding-right:0
 }
-.n_adiva p{
+.n_elasteen p{
 	padding:10px 5%;width:90%
 }
 .news_view h2{
@@ -10971,13 +10971,13 @@ header nav ul li.nghevien ul li:nth-child(1){
 
 }
 @media (max-width:767px){
-	.text_adiva h2{
+	.text_elasteen h2{
 	text-indent:0;padding-left:5%;margin-top:20px
 }
 img.micell_mobile_icon_uudiem{
 	display:block;margin:auto
 }
-.adivawater{
+.elasteenwater{
 	display:none !important
 }
 .satus_head h1,.satus_head p{
@@ -11118,7 +11118,7 @@ p.micell_txt1{
 .content_thanhphanwhite ul li{
 	float:left;width:50%
 }
-.white_adiva_title h2{
+.white_elasteen_title h2{
 	font-size:24px
 }
 .content_quycachwhite ul li{
@@ -11148,7 +11148,7 @@ header nav a:nth-child(2) span{
 .form_post form span{
 	width:100%
 }
-.n_adiva h1{
+.n_elasteen h1{
 	font-size:26px
 }
 .info_listdieutri_mobile p span{
@@ -11214,7 +11214,7 @@ img.mobile_uudiem{
 .content_nghevien{
 	width:90%;padding:5%
 }
-.img_water_adiva{
+.img_water_elasteen{
 	position:absolute;top:0;left:0;width:100%
 }
 #img_water_mobile{
@@ -11226,7 +11226,7 @@ img.mobile_uudiem{
 .left_news,.right_news{
 	width:100%;margin-bottom:20px
 }
-#section1,#section2,#section3,#section4,#section5,#section6,#section7,#section8,#more_adiva1,#more_adiva2,#more_adiva3,#more_adiva4,#more_adiva5,#more_adiva6,#more_adiva7,#more_adiva8,#more_adiva9,#more_adiva10{
+#section1,#section2,#section3,#section4,#section5,#section6,#section7,#section8,#more_elasteen1,#more_elasteen2,#more_elasteen3,#more_elasteen4,#more_elasteen5,#more_elasteen6,#more_elasteen7,#more_elasteen8,#more_elasteen9,#more_elasteen10{
 	z-index:1
 }
 .list_question h2{
@@ -11235,19 +11235,19 @@ img.mobile_uudiem{
 .banner_question img{
 	display:none
 }
-.banner_question img.adiva_mbile{
+.banner_question img.elasteen_mbile{
 	display:block
 }
 #banner_page{
 	margin:0
 }
-#more_adiva3 img,#more_adiva7 img,#more_adiva9 img,#more_adiva10 img{
+#more_elasteen3 img,#more_elasteen7 img,#more_elasteen9 img,#more_elasteen10 img{
 	margin:0
 }
 .cate_camnhan img{
 	display:none
 }
-.body_numbers p br,.camnhan_adiva p br,.table_28 ul li p br{
+.body_numbers p br,.camnhan_elasteen p br,.table_28 ul li p br{
 	display:none
 }
 .cate_camnhan .body_camnhan p{
@@ -11262,7 +11262,7 @@ img.mobile_uudiem{
 .camnhan_box{
 	float:none
 }
-.text_adiva h2{
+.text_elasteen h2{
 	text-align:center
 }
 .img_descrip{
@@ -11277,25 +11277,25 @@ img.mobile_uudiem{
 .img_descrip img#circle_img{
 	display:block
 }
-.description_adiva p{
+.description_elasteen p{
 	font-size:14px;position:relative;text-align:center;top:0;left:0;width:100%;margin-top:15px
 }
-.description_adiva a{
+.description_elasteen a{
 	position:relative;width:70px;margin:auto;left:0;bottom:0;float:none;margin-top:10px;display:inline-table
 }
-.description_adiva{
+.description_elasteen{
 	width:100%;padding-left:0
 }
-.vien_adiva h2,.vien_adiva .description_adiva{
+.vien_elasteen h2,.vien_elasteen .description_elasteen{
 	padding-left:0;width:100%
 }
-.vien_adiva .img_descrip b{
+.vien_elasteen .img_descrip b{
 	padding-top:55px;font-size:26px
 }
 #boxnghevien{
 	border-top:1px solid #e5e5e5;float:left;width:100%;margin-top:50px
 }
-.vien_adiva .description_adiva p{
+.vien_elasteen .description_elasteen p{
 	left:0;margin-top:15px
 }
 .table_28 ul li{
@@ -11310,10 +11310,10 @@ img.mobile_uudiem{
 .content_news_view ul li img{
 	width:28%;padding-right:2%
 }
-header nav ul li.adiva ul li:nth-child(1) img,header nav ul li.adiva ul li:nth-child(2) img,header nav ul li.nghevien ul li:nth-child(1) img{
+header nav ul li.elasteen ul li:nth-child(1) img,header nav ul li.elasteen ul li:nth-child(2) img,header nav ul li.nghevien ul li:nth-child(1) img{
 	display:none
 }
-.adivawater,.adivavien{
+.elasteenwater,.elasteenvien{
 	height:30px !important
 }
 header nav ul li.nghevien ul li:nth-child(1){
@@ -11343,7 +11343,7 @@ header nav ul li.nghevien ul li a{
 header nav ul li a span.icon-next{
 	padding:6px 15px 0 10px
 }
-header nav ul li.adiva ul li.adivavien,header nav ul li.adiva ul li.adivawater{
+header nav ul li.elasteen ul li.elasteenvien,header nav ul li.elasteen ul li.elasteenwater{
 	width:100% !important;text-align:left !important;border:0 !important;margin:4px 0 !Important
 }
 header nav ul{
@@ -11352,19 +11352,19 @@ header nav ul{
 header nav ul li.active ul li a,header nav ul li:hover ul li a{
 	color:#636363;font-size:13px;font-weight:400
 }
-header nav ul li.adiva ul li:nth-child(1) p,header nav ul li.adiva ul li:nth-child(2) p{
+header nav ul li.elasteen ul li:nth-child(1) p,header nav ul li.elasteen ul li:nth-child(2) p{
 	padding-bottom:0;text-align:left;font-size:13px;padding-left:15px
 }
-header nav ul li.adiva ul{
+header nav ul li.elasteen ul{
 	height:auto;padding:0;margin:0;width:100%
 }
-header nav ul li.adiva ul li:nth-child(1) span,header nav ul li.adiva ul li:nth-child(2) span{
+header nav ul li.elasteen ul li:nth-child(1) span,header nav ul li.elasteen ul li:nth-child(2) span{
 	top:-30px;left:30px !important
 }
-.adiva ul li span{
+.elasteen ul li span{
 	display:none !important
 }
-header nav ul li.adiva li a,header nav ul li ul li a{
+header nav ul li.elasteen li a,header nav ul li ul li a{
 	padding-left:15px
 }
 header nav ul li.news ul{
@@ -11406,7 +11406,7 @@ header nav ul li.news ul li span{
 #owl-demo .item img.sliderMobile{
 	display:block
 }
-#adiva .adiva_product,#adiva .story_colums{
+#elasteen .elasteen_product,#elasteen .story_colums{
 	width:100%
 }
 #video .body_video img{
@@ -11421,7 +11421,7 @@ header nav ul li.news ul li span{
 #video .body_video .bg_video embed{
 	width:96%;margin:17px 0 0 2%;height:180px
 }
-#customer .adiva_product,#customer .customer_img,#customer .complanit_customer{
+#customer .elasteen_product,#customer .customer_img,#customer .complanit_customer{
 	width:100%
 }
 .complanit_customer,.customer_img{
@@ -11562,10 +11562,10 @@ header nav ul li.news ul li span{
 .phanloai ul li:nth-child(even){
 	margin-right:0
 }
-#more_adiva3 img,#more_adiva7 img,#more_adiva9 img,#more_adiva10 img{
+#more_elasteen3 img,#more_elasteen7 img,#more_elasteen9 img,#more_elasteen10 img{
 	float:left;width:100%;margin:20px 0 0
 }
-#more_adiva3 p,#more_adiva7 p,#more_adiva9 p,#more_adiva10 p{
+#more_elasteen3 p,#more_elasteen7 p,#more_elasteen9 p,#more_elasteen10 p{
 	width:100%
 }
 .list_more ul li p{
@@ -11670,16 +11670,16 @@ header nav ul li.news ul li span{
 p.micell_uudiem_vuottroi{
 	text-align:justify !important
 }
-header nav ul li ul li.adivavien{
+header nav ul li ul li.elasteenvien{
 	display:block
 }
 header nav ul li.news ul li,header nav ul li:nth-child(5),header nav ul li:nth-child(6){
 	width:50% !important
 }
-header nav ul li.adiva ul li{
+header nav ul li.elasteen ul li{
 	width:100% !important
 }
-header nav ul li.adiva ul li:nth-child(6),header nav ul li.adiva ul li:nth-child(7){
+header nav ul li.elasteen ul li:nth-child(6),header nav ul li.elasteen ul li:nth-child(7){
 	width:50% !important
 }
 header nav ul li.news ul li a{
@@ -11805,7 +11805,7 @@ header nav ul li.search_id{
 .phanloai{
 	margin-bottom:0
 }
-#more_adiva1 p img{
+#more_elasteen1 p img{
 	width:100%;padding:0 0 20px
 }
 .hot_news,.news_hot_more,.listnews ul li img,.rightnews,.left_news{
@@ -11835,7 +11835,7 @@ header nav ul li.search_id{
 .news_question ul li a,.news_question ul li p{
 	width:100%;margin:0 0 15px
 }
-.adiva_question{
+.elasteen_question{
 	margin:0
 }
 ul.pagination li a{
@@ -12353,7 +12353,7 @@ header{
 	left:auto;right:7px
 }
 
-.dropdown-menu li.adivavien{
+.dropdown-menu li.elasteenvien{
 	display:none
 }
 .clearfix{
@@ -12392,10 +12392,10 @@ header nav ul li{
 #breadcrumb a{
 	font-size:14px
 }
-.n_adiva h2,.n_adiva h4{
+.n_elasteen h2,.n_elasteen h4{
 	position:relative;z-index:999;font-size:28px;font-weight:400;width:100%;padding:10px 0
 }
-.n_adiva h2 a,.n_adiva h4 a{
+.n_elasteen h2 a,.n_elasteen h4 a{
 	font-size:28px;font-weight:400
 }
 #news h4{
@@ -12410,7 +12410,7 @@ header nav ul li{
 .owl-prev{
 	background:url(/statics/img/prev.png) no-repeat center
 }
-.adiva_product .product-img{
+.elasteen_product .product-img{
 	margin-top:30px
 }
 .owl-buttons{
@@ -12668,7 +12668,7 @@ div.wpcf7-validation-errors{
 .remkt iframe{
 	height:0 !important
 }
-#owl-demo2 .title_adiva h2,#owl-demo3 .title_adiva h2,#owl-demo4 .title_adiva h2{
+#owl-demo2 .title_elasteen h2,#owl-demo3 .title_elasteen h2,#owl-demo4 .title_elasteen h2{
 	font-size:18px;margin-bottom:10px
 }
 .menu_footer h4{
@@ -12770,7 +12770,7 @@ i.icon-up-arrow:hover,i.icon-down-arrow:hover{
 .white-dtsd h2{
 	margin-bottom:10px;text-align:left;font-size:16px;text-transform:uppercase !important;font-weight:700
 }
-.postid-63395 .congdung_adivagold{
+.postid-63395 .congdung_elasteengold{
 	height:248px;padding:0 15px
 }
 .category-infographic .entry-content img{
@@ -12884,10 +12884,10 @@ img.aligncenter{
 #body_micell.cam-nhan{
 	margin:0 0 20px
 }
-.cam-nhan .n_adiva{
+.cam-nhan .n_elasteen{
 	margin:0 0 50px
 }
-.cam-nhan .n_adiva h4{
+.cam-nhan .n_elasteen h4{
 	text-transform:uppercase;font-size:30px;font-weight:400;color:#333
 }
 .cam-nhan .left_news{
@@ -12947,7 +12947,7 @@ img.aligncenter{
 .right_avatar_detail p{
 	margin-bottom:15px
 }
-.box_adivawhite .owl-pagination{
+.box_elasteenwhite .owl-pagination{
 	width:145px
 }
 ul.products{
@@ -13046,13 +13046,13 @@ ul.post-list-collagen-page li span:hover{
 .text-center img{
 	display:block;margin:0 auto;max-width:600px
 }
-.adiva-white-vien-ext h2{
+.elasteen-white-vien-ext h2{
 	text-align:left;margin-bottom:15px;text-transform:uppercase !important;font-size:16px;font-weight:700
 }
-.adiva-white-vien-ext p{
+.elasteen-white-vien-ext p{
 	margin:20px 0;line-height:20px;text-align:justify
 }
-.adiva-white-vien-ext b{
+.elasteen-white-vien-ext b{
 	font-weight:700 !important
 }
 .btn-order{
@@ -13073,10 +13073,10 @@ ul.post-list-collagen-page li span:hover{
 .wp-caption-text{
 	text-align:center !important
 }
-ul.tp-adiva-vien{
+ul.tp-elasteen-vien{
 	margin:0 !important
 }
-ul.tp-adiva-vien li{
+ul.tp-elasteen-vien li{
 	width:94px !important;height:94px !important;background:0 0 !important;margin:0 0 5px !important;float:none !important;display:inline-block;text-align:center;line-height:94px;border:7px solid #ffcf91;border-radius:50%
 }
 .dathangngay{
@@ -13103,10 +13103,10 @@ ul.tp-adiva-vien li{
 .m-b-0{
 	margin-bottom:0
 }
-#gold_adiva_home .acerola a.button_order_home{
+#gold_elasteen_home .acerola a.button_order_home{
 	background:#000
 }
-#gold_adiva_home .acerola a.button_order_home:hover{
+#gold_elasteen_home .acerola a.button_order_home:hover{
 	background:#ce8007
 }
 .woocommerce-page #breadcrumb{
@@ -13194,7 +13194,7 @@ ul.tp-adiva-vien li{
 .n_menu_pc ul:nth-child(2) li:nth-child(2) .dropdown-menu li:nth-child(8) a,.n_menu_pc ul:nth-child(2) li:nth-child(2) .dropdown-menu li:nth-child(11) a,.n_menu_pc ul:nth-child(2) li:nth-child(3) .dropdown-menu li:nth-child(5) a,.n_menu_pc ul:nth-child(2) li:nth-child(3) .dropdown-menu li:nth-child(7) a{
 	padding-left:20px !important
 }
-.n_adiva h2{
+.n_elasteen h2{
 	font-size:26px
 }
 .detail_customer article img{
@@ -13266,10 +13266,10 @@ embed,iframe,object{
 .top_window{
 	bottom:90px;right:33px
 }
-.postid-63395 .section_adiva_gold_7{
+.postid-63395 .section_elasteen_gold_7{
 	margin-top:0 !important
 }
-.postid-63395 .section_adiva_gold_7 h2{
+.postid-63395 .section_elasteen_gold_7 h2{
 	margin-top:50px
 }
 .white-vien-custom{
@@ -13302,10 +13302,10 @@ embed,iframe,object{
 .cam-nhan .listnews ul li .rightnews{
 	width:100%;float:left
 }
-.cam-nhan .n_adiva h4{
+.cam-nhan .n_elasteen h4{
 	font-size:20px
 }
-.cam-nhan .n_adiva{
+.cam-nhan .n_elasteen{
 	margin:0 0 20px
 }
 .cam-nhan .left_news .listnews ul li{
@@ -13350,7 +13350,7 @@ ul.post-list-collagen-page li img{
 .text-center img{
 	max-width:100%
 }
-.adiva-white-vien-ext h2{
+.elasteen-white-vien-ext h2{
 	font-size:16px !important;text-align:left !important
 }
 .menu_footer{
@@ -13380,7 +13380,7 @@ ul.post-list-collagen-page li img{
 #micell_body .micell_txt1{
 	margin-bottom:15px;width:auto;padding:0
 }
-#gold_adiva_home .acerola{
+#gold_elasteen_home .acerola{
 	margin-top:40px
 }
 .home #video .container{
@@ -13629,7 +13629,8 @@ section[class^="s"]{
 	color:#ab3e97
 }
 .s2 .content-wrap p{
-	max-width:580px
+	max-width:580px;
+	text-align: justify;
 }
 .s3{
 	background-image:url(/statics/img/bg/bg3.jpg)
@@ -13653,7 +13654,7 @@ section[class^="s"]{
 	margin-top:12rem;padding:0 8rem
 }
 .s3 ol.text-right{
-	direction:rtl
+	direction:ltr
 }
 .s3 ol li{
 	margin-bottom:60px;position:relative
@@ -13857,7 +13858,7 @@ section[class^="s"]{
 	width:579px;height:301px;background-image:url(/statics/img/bg/pattern12.png);background-repeat:no-repeat;background-size:cover;position:relative
 }
 .s7 .head-t .t,.s8 .head-t .t,.s9 .head-t .t{
-	width:250px;height:330px;text-align:center;vertical-align:middle;position:absolute;left:50%;top:0;transform:translate(-50%,-35%);background:#fff;line-height:395px
+	width:330px;height:330px;text-align:center;vertical-align:middle;position:absolute;left:50%;top:0;transform:translate(-50%,-35%);background:#fff;line-height:395px;border-radius: 100rem;
 }
 .s7 .head-t span,.s8 .head-t span,.s9 .head-t span{
 	display:inline-block;font-family:'Playfair Display', serif;font-size:3rem;color:#ab3e97;font-weight:700;line-height:1
