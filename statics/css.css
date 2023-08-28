@@ -6558,7 +6558,7 @@ footer{
 	width:100%;margin:15px 0
 }
 .name_company .social p{
-	float:left;width:135px
+	float:left;width:175px
 }
 .name_company .social .icon_social{
 	float:left
@@ -12675,7 +12675,7 @@ div.wpcf7-validation-errors{
 	display:inline;color:inherit;font-weight:400
 }
 .name_company h4{
-	color:#b2b2b2;width:100%;text-transform:uppercase;margin-bottom:15px;font-size:16px
+	color:#b2b2b2;width:100%;text-transform:uppercase;margin-bottom:15px;font-size:16px;font-weight: 700;
 }
 .form_contact h4{
 	float:left;width:100%;color:#b2b2b2;text-transform:uppercase;margin-bottom:5px;font-size:16px
@@ -13526,7 +13526,7 @@ section[class^="s"]{
 	min-width:130px
 }
 .heading-title{
-	font-family:'Playfair Display', serif;font-size:5rem;color:#ab3e97;font-weight:700;line-height:1
+	font-family:'Playfair Display', serif;font-size:5rem;color:#ab3e97;font-weight:700;line-height:1.4
 }
 .s1{
 	width:100%;float:left;margin-top:-2px;margin-bottom:0;background-image:url(/statics/img/bg/bg1.webp);background-repeat:no-repeat;background-position:center;background-size:cover
@@ -13940,7 +13940,7 @@ section[class^="s"]{
 	padding:80px 15px
 }
 .s12 .content-wrap b {
-	font-weight: 600;
+	font-weight: 600;color: #ab3e97;
 
 }
 .s12 .heading-title{
