@@ -13581,7 +13581,8 @@ section[class^="s"]{
 	margin-top:0;margin-bottom:0;display:inline-block
 }
 .s2 .content-wrap{
-	padding-left:45px
+	padding-left:45px;
+	padding-bottom:45px;
 }
 .s2 .head-wrap{
 	margin:54px 0;position:relative
@@ -14299,7 +14300,7 @@ section[class^="s"]{
 	padding-left: 600px;;
 }
 .s2 h2.heading-title{
-	font-size: 3.5em;
+	font-size: 3em;
 }
 .s2 ul{
 	margin-bottom:15px
@@ -14311,7 +14312,7 @@ section[class^="s"]{
 	padding-left:38px;background-size:30px
 }
 .s2 .left img{
-	margin-top:-21rem
+	margin-top:-9rem
 }
 .s3 .heading-title,.s3 .heading-title span{
 	font-size:3.5rem
@@ -14329,13 +14330,19 @@ section[class^="s"]{
 	font-size:1.7rem
 }
 .s4{
-	min-height:1105px
+	min-height:1166px
+}
+.s4 .bg2{
+	height: 625px;
 }
 .s4 .head-wrap{
 	margin-top:30px
 }
 .s4 .head-wrap img{
 	max-width:200px
+}
+.s4 .graphic-wrap .row{
+	min-height: 950px;
 }
 .s4 .graphic-wrap .item h3,.s4 .graphic-wrap .item4 h3{
 	bottom:-70px
