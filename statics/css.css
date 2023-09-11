@@ -13814,7 +13814,7 @@ section[class^="s"]{
 	height:400px;background:#ead0e5
 }
 .s4 .bg2{
-	height:575px;background:#ead0e5;top:400px
+	height:650px;background:#ead0e5;top:400px
 }
 .s4 .content-wrap sup{
 	font-size:10px
@@ -14043,6 +14043,9 @@ section[class^="s"]{
 .s20{
 	background-image:url(/statics/img/bg/pattern2-small.png);padding:50px 0
 }
+.s20 .container{
+ 	width: 100%;
+}
 .s20 .heading-title{
 	font-weight:400;font-size:4rem
 }
@@ -14073,7 +14076,6 @@ section[class^="s"]{
 .s20 .box-w span.f3{
 	color:#be0c12;font-size:32px;line-height:2
 }
-
 .s20 .item4 {
 	display: flex;
     justify-content: center;
@@ -14082,20 +14084,59 @@ section[class^="s"]{
 }
 .s20 .item4 img{
 	flex-shrink: 0;
-    min-width: 100%;
-    min-height: 100%
 }
 .s20 .item{
-	min-height:540px;position:relative
+	min-height:380px;position:relative
+}
+.s20 .container .row .box {
+	margin: 70.7px;
+	background-color: goldenrod;
+	border-radius:0;
+  	display: inline-block;
+  	height: 200px;
+  	position: relative;
+	border: none;
+  	top: 0;
+  	transform: rotate(-45deg);
+  	width: 201px;
+	z-index: 0;
+}
+.s20 .container .row .box::before,.s20 .container .row .box::after{
+	content: "";
+	background-color: goldenrod;
+	height: 200px;
+	position: absolute;
+}
+.s20 .container .row .box::before{
+	height: 101px;
+  	width: 200px;
+	border-top-left-radius: 100px;
+	border-top-right-radius: 100px;
+	z-index: 3;
+	top: -100px;
+  	left: 0;
+	z-index: 0;
+}
+.s20 .container .row .box::after{
+	width: 105px;
+	left: 200px;
+	border-top-right-radius: 100px;
+	border-bottom-right-radius: 100px;
+  	top: 0;
+	z-index: 0;
+}
+.s20 .container .row .box h4, .s20 .container .row .box h5, .s20 .container .row .box li{
+	transform: rotate(45deg);
 }
 .s20 .item .box{
-	position:absolute;bottom:0;background:#eb8d00;border-radius:20px;padding:30px;width:91.5%;box-sizing:border-box
+	/*position:absolute;bottom:0;background:#eb8d00;border-radius:20px;padding:30px;width:91.5%;box-sizing:border-box*/
+	
 }
 .s20 .item .box h4{
-	color:#ab3e97;font-family:'Playfair Display', serif;font-size:2.5rem;position:absolute;text-align:center;top:-4rem;left:0;width:100%
+	color:#ab3e97;font-family:'Playfair Display', serif;font-size:2.5rem;position:absolute;text-align:center;top:-4rem;left:3rem;width:100%
 }
 .s20 .item .box h5{
-	color:#fff;font-size:1.5rem;margin-bottom:15px;text-transform:uppercase
+	color:#fff;font-size:1.2rem;margin-bottom:2px;text-transform:uppercase
 }
 .s20 .item .box ul{
 	padding:15px 0 15px 18px
