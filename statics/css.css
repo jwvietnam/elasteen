@@ -14004,7 +14004,7 @@ section[class^="s"]{
 	position:relative
 }
 .s13 .row .left p.title{
-	position:absolute;text-align:center;bottom:30px;right:48px
+	position:absolute;text-align:center;bottom:170px;right:248px
 }
 .s13 .row .left p.title b{
 	display:block
@@ -14287,10 +14287,10 @@ section[class^="s"]{
 	left:-1%;top:40%
 }
 .s1 .tagline.tag2{
-	top:25%;right:-16%
+	top:11%;right:-18%
 }
 .s1 .tagline.tag3{
-	right:0;bottom:23%
+	right:11%;bottom:29%
 }
 .s2 .head h3{
 	font-size:2.5rem
