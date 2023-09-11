@@ -14090,7 +14090,7 @@ section[class^="s"]{
 }
 .s20 .container .row .box {
 	margin: 70.7px;
-	background-color: goldenrod;
+	background-color: #ab3e97;
 	border-radius:0;
   	display: inline-block;
   	height: 200px;
@@ -14103,7 +14103,7 @@ section[class^="s"]{
 }
 .s20 .container .row .box::before,.s20 .container .row .box::after{
 	content: "";
-	background-color: goldenrod;
+	background-color: #ab3e97;
 	height: 200px;
 	position: absolute;
 }
@@ -14133,10 +14133,10 @@ section[class^="s"]{
 	
 }
 .s20 .item .box h4{
-	color:#ab3e97;font-family:'Playfair Display', serif;font-size:2.5rem;position:absolute;text-align:center;top:-4rem;left:3rem;width:100%
+	color:#fff;font-family:'Playfair Display', serif;font-size:2.5rem;position:absolute;text-align:center;top:-4rem;left:3rem;width:100%
 }
 .s20 .item .box h5{
-	color:#fff;font-size:1.2rem;margin-bottom:2px;text-transform:uppercase
+	color:#fff;font-size:1.1rem;margin-bottom:2px;text-transform:uppercase
 }
 .s20 .item .box ul{
 	padding:15px 0 15px 18px
