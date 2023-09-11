@@ -14341,7 +14341,7 @@ section[class^="s"]{
 .s4 .head-wrap img{
 	max-width:200px
 }
-.s4 .graphic-wrap .row{
+.s4 .graphic-wrap .row .row{
 	min-height: 950px;
 }
 .s4 .graphic-wrap .item h3,.s4 .graphic-wrap .item4 h3{
