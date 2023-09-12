@@ -14475,6 +14475,13 @@ section[class^="s"]{
 .s20 .container{
 	width: 1200px;
 }
+.s20 .container .box-content{
+	width: 237px;
+	margin: 0;
+}
+.s20 .item .box-content h4{
+	margin-top: 0;
+}
 
 
 }
