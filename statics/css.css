@@ -14134,7 +14134,7 @@ section[class^="s"]{
 	min-height:380px;position:relative
 }
 .s20 .container .row .box {
-	margin: 95px;
+	margin: 80px;
 	background-color: #ab3e97;
 	border-radius:0;
   	display: inline-block;
@@ -14173,7 +14173,7 @@ section[class^="s"]{
 }
 .s20 .container .box-content/*.s20 .container .row .box h4, .s20 .container .row .box h5, .s20 .container .row .box li*/{
 	position: absolute;
-    top: 25px;
+    top: 0;
     margin: 28px;
     text-align: center;
     width: 100%;
@@ -14352,11 +14352,11 @@ section[class^="s"]{
 	width: 1600px;
 }
 .s20 .container .row .box {
-	margin: 104px;
+	margin: 112px;
 }
 .s20 .container .box-content {
 	margin: auto;
-	top: 54px;
+	top: 25px;
 }
 
 }
@@ -15092,7 +15092,7 @@ section h1{
 	border-radius:10px;
 }
 .s20 .item .box-content{
-	top: 3.5em;
+	top: 0;
 	margin: auto;
 }
 .s20 .item .box,.s20 .item .box h4{
