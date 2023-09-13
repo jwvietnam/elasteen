@@ -5492,7 +5492,14 @@ table.wpsl-opening-hours,table.wpsl-opening-hours td{
 #wpsl-checkbox-filter.wpsl-checkbox-1-columns li,#wpsl-checkbox-filter.wpsl-checkbox-2-columns li,#wpsl-checkbox-filter.wpsl-checkbox-3-columns li,#wpsl-checkbox-filter.wpsl-checkbox-4-columns li{
 	width:100%
 }
-
+.s1 .heading-title {
+	margin-top: 0;
+	font-size: 1.8rem;
+}
+.s1 .head .text2{
+	margin-top: 1rem;
+    font-size: 2.1rem;
+}
 }
 
 @font-face{
