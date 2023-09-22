@@ -14344,6 +14344,9 @@ section[class^="s"]{
 .s4{
 	min-height:1336px
 }
+.s5 .col-md-5 img{
+	width: 747px;
+}
 .s6{
 	min-height:904px
 }
