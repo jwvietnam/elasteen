@@ -14331,6 +14331,13 @@ section[class^="s"]{
 .s1{
 	min-height:822px
 }
+.s1 .product{
+    width:100%;
+}
+.s1 .product img {
+	width:100%;
+	margin:11rem;
+}
 .s2{
 	min-height:964px
 }
