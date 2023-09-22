@@ -14344,7 +14344,7 @@ section[class^="s"]{
 .s4{
 	min-height:1336px
 }
-.s5 .col-md-5 img{
+.s5 .col-md-7 img{
 	width: 747px;
 }
 .s6{
@@ -14449,6 +14449,10 @@ section[class^="s"]{
 }
 .s4 .graphic-wrap .item h3,.s4 .graphic-wrap .item4 h3{
 	bottom:-70px
+}
+.s5 .col-md-7 img{
+	margin: unset;
+	width: 747px;
 }
 .s10 img{
 	width:75%;margin:0 auto
