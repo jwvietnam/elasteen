@@ -14527,8 +14527,12 @@ section h1{
 .s1{
 	padding-bottom:30px
 }
+
 .s1 .col-md-5 img{
 	margin-top:56px
+}
+.s1 .product img {
+	margin: unset;
 }
 .s1 p{
 	font-size:1.5rem;padding:0 15px;line-height:1;margin-bottom:6px
