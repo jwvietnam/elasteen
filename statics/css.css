@@ -5485,22 +5485,7 @@ table.wpsl-opening-hours,table.wpsl-opening-hours td{
 }
 
 }
-@media (max-width:420px){
-	#wpsl-checkbox-filter li{
-	margin:0
-}
-#wpsl-checkbox-filter.wpsl-checkbox-1-columns li,#wpsl-checkbox-filter.wpsl-checkbox-2-columns li,#wpsl-checkbox-filter.wpsl-checkbox-3-columns li,#wpsl-checkbox-filter.wpsl-checkbox-4-columns li{
-	width:100%
-}
-.s1 .heading-title {
-	margin-top: 0;
-	font-size: 1.8rem;
-}
-.s1 .head .text2{
-	margin-top: 1rem;
-    font-size: 2.1rem;
-}
-}
+
 
 @font-face{
 	font-family:ez-toc-icomoon;src:url(/statics/fonts/ez-toc-icomoon.eot?-5j7dhv);src:url(/statics/fonts/ez-toc-icomoon.eot?#iefix-5j7dhv) format('embedded-opentype'),url(/statics/fonts/ez-toc-icomoon.ttf?-5j7dhv) format('truetype'),url(/statics/fonts/ez-toc-icomoon.woff?-5j7dhv) format('woff'),url(/statics/fonts/ez-toc-icomoon.svg?-5j7dhv#ez-toc-icomoon) format('svg');font-weight:400;font-style:normal
@@ -15122,4 +15107,20 @@ section h1{
 	font-size:18px
 }
 
+}
+@media (max-width:420px){
+	#wpsl-checkbox-filter li{
+	margin:0
+}
+#wpsl-checkbox-filter.wpsl-checkbox-1-columns li,#wpsl-checkbox-filter.wpsl-checkbox-2-columns li,#wpsl-checkbox-filter.wpsl-checkbox-3-columns li,#wpsl-checkbox-filter.wpsl-checkbox-4-columns li{
+	width:100%
+}
+.s1 .heading-title {
+	margin-top: 0;
+	font-size: 1.8rem;
+}
+.s1 .head .text2{
+	margin-top: 1rem;
+    font-size: 2.1rem;
+}
 }
