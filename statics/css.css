@@ -13818,13 +13818,14 @@ section[class^="s"]{
 	list-style:disc;margin-bottom:10px
 }
 .s5{
-	background-image:url(/statics/img/bg/bg5.jpg);background-repeat:no-repeat;background-color:#fef1df
+	background-image:url(/statics/img/bg/bg5.jpg);background-repeat:no-repeat;background-color:#fef1df;
+	font-size: 3rem;
 }
 .s5 .heading-title{
-	color:unset;font-weight:400;font-size:4rem
+	color:unset;font-weight:400;font-size:3rem
 }
 .s5 .heading-title span{
-	font-family:'Playfair Display', serif;font-size:7rem
+	color:#ab3e97;font-family:'Playfair Display', serif;font-size:5rem
 }
 .s5 .content-wrap{
 	text-align:center;margin-top:10rem
