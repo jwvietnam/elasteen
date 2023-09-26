@@ -13625,67 +13625,67 @@ section[class^="s"]{
 	max-width:580px;
 	text-align: justify;
 }
-.s5{
+.s4{
 	background-image:url(/statics/img/bg/bg3.jpg)
 }
-.s5 .head-wrap{
+.s4 .head-wrap{
 	position:relative
 }
-.s5 .logo{
+.s4 .logo{
 	margin-top:54px
 }
-.s5 .heading-title,.s5 .heading-title span{
+.s4 .heading-title,.s4 .heading-title span{
 	font-size:5rem;font-weight:400
 }
-.s5 .heading-title span{
+.s4 .heading-title span{
 	font-family:'Playfair Display', serif;color:#ab3e97;font-weight:700
 }
-.s5 .heading-title{
+.s4 .heading-title{
 	color:unset
 }
-.s5 ol{
+.s4 ol{
 	margin-top:12rem;padding:0 8rem
 }
-.s5 ol.text-right{
+.s4 ol.text-right{
 	direction:ltr
 }
-.s5 ol li{
+.s4 ol li{
 	margin-bottom:60px;position:relative
 }
-.s5 ol li:before{
+.s4 ol li:before{
 	content:counter(list-item);display:block;position:absolute;top:-4rem;left:-8rem;font-family:'Playfair Display', serif;font-size:14rem;font-style:italic;color:#ab3e97
 }
-.s5 ol.text-right li:before{
+.s4 ol.text-right li:before{
 	left:unset;right:-8rem
 }
-.s5 .title-h{
+.s4 .title-h{
 	margin-bottom:15px
 }
-.s5 .title-h,.s5 .title-h sup,.s5 .title-h em{
+.s4 .title-h,.s4 .title-h sup,.s4 .title-h em{
 	font-family:'Playfair Display', serif;font-size:2rem;line-height:1.1;font-weight:400
 }
-.s5 .title-h em{
+.s4 .title-h em{
 	font-weight:700;color:#ab3e97
 }
-.s5 .title-h sup{
+.s4 .title-h sup{
 	font-size:1rem
 }
-.s5 .title-h em{
+.s4 .title-h em{
 	display:block;font-size:2.5rem
 }
-.s5 .desc{
+.s4 .desc{
 	max-height:43px;overflow:hidden
 }
-.s5 .desc.more{
+.s4 .desc.more{
 	max-height:unset;overflow:unset
 }
-.s5 .btn-see-more span{
+.s4 .btn-see-more span{
 	color:#999
 }
-.s5 .btn-see-more a:hover{
+.s4 .btn-see-more a:hover{
 	text-decoration:underline !important
 }
-.s5 .img img{
+.s4 .img img{
 	display:block;width:100%;height:auto
 }
 .s6{
@@ -14329,7 +14329,7 @@ section[class^="s"]{
 .container-fluid{
 	max-width:1400px;margin:0 auto
 }
-.s1 .container,.s3 .container,.s5 .container,.s6 .container,.s2 .container,.s6 .container,.s7 .container,.s8 .container,.s9 .container{
+.s1 .container,.s3 .container,.s4 .container,.s6 .container,.s2 .container,.s6 .container,.s7 .container,.s8 .container,.s9 .container{
 	max-width:1200px
 }
 .s1{
@@ -14427,19 +14427,19 @@ section[class^="s"]{
 .s3 .left img{
 	margin-top:-9rem
 }
-.s5 .heading-title,.s5 .heading-title span{
+.s4 .heading-title,.s4 .heading-title span{
 	font-size:3.5rem
 }
-.s5 ol{
+.s4 ol{
 	margin-top:3rem
 }
-.s5 .col-left ol{
+.s4 .col-left ol{
 	padding:0 8rem 0 2rem
 }
-.s5 .col-right ol{
+.s4 .col-right ol{
 	padding:0 2rem 0 8rem
 }
-.s5 .title-h,.s5 .title-h sup,.s5 .title-h em{
+.s4 .title-h,.s4 .title-h sup,.s4 .title-h em{
 	font-size:1.7rem
 }
 .s6{
@@ -14646,43 +14646,43 @@ section h1{
 .s3 .img-mobile{
 	border:5px solid rgba(236,210,187,.5);max-width:calc(100% - 40px);border-radius:50%;margin:0 auto
 }
-.s5{
+.s4{
 	padding:30px 0
 }
-.s5 .logo{
+.s4 .logo{
 	margin-top:0;margin-bottom:5px
 }
-.s5 .logo img{
+.s4 .logo img{
 	max-width:185px
 }
-.s5 .heading-title,.s5 .heading-title span{
+.s4 .heading-title,.s4 .heading-title span{
 	font-size:2.5rem;margin:0;line-height:1;display:block
 }
-.s5 ol{
+.s4 ol{
 	margin-top:30px;padding:0 15px 0 60px
 }
-.s5 ol.text-right li:before{
+.s4 ol.text-right li:before{
 	left:-50px;right:unset
 }
-.s5 ol li:before{
+.s4 ol li:before{
 	top:-1.5rem;left:-50px;font-size:6rem
 }
-.s5 ol.text-right{
+.s4 ol.text-right{
 	direction:unset;text-align:left
 }
-.s5 ol li{
+.s4 ol li{
 	margin-bottom:15px
 }
-.s5 .title-h,.s5 .title-h em{
+.s4 .title-h,.s4 .title-h em{
 	font-size:1.5rem
 }
-.s5 .title-h sup{
+.s4 .title-h sup{
 	font-size:1rem
 }
-.s5 .title-h em{
+.s4 .title-h em{
 	font-size:1.7rem
 }
-.s5 .desc{
+.s4 .desc{
 	max-height:60px
 }
 .s6{
