@@ -14348,6 +14348,9 @@ section[class^="s"]{
 .s4{
 	min-height:1336px
 }
+.s5{
+	font-size: 3rem;
+}
 .s5 .content-wrap{
 	width: unset;
 }
