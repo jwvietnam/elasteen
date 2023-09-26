@@ -14348,6 +14348,9 @@ section[class^="s"]{
 .s4{
 	min-height:1336px
 }
+.s5 .content-wrap{
+	width: unset;
+}
 .s5 .col-md-7 img{
 	width: 747px;
 }
