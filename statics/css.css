@@ -14344,6 +14344,10 @@ section[class^="s"]{
 	width:100%;
 	margin:11rem;
 }
+.s2 .container{
+	max-width: 1600px;
+	width: unset;
+}
 .s2 .heading-title{
 	font-size:3.5rem;
 }
@@ -14354,7 +14358,7 @@ section[class^="s"]{
 	padding: 2rem 0;
 }
 .s2 .col-left img{
-	padding-left: 29rem;
+	padding-left: 0;
 }
 .s2 .col-right{
 	font-size: 2.5rem;
@@ -14363,20 +14367,15 @@ section[class^="s"]{
 .s2 .col-right span{
 	font-size: 2.3rem;
 }
+
+.s2 .col-md-7 img{
+	width: 747px;
+}
 .s3{
 	min-height:964px
 }
 .s5{
 	min-height:1336px
-}
-.s2{
-	font-size: 3rem;
-}
-.s2 .container{
-	width: unset;
-}
-.s2 .col-md-7 img{
-	width: 747px;
 }
 .s5{
 	min-height:904px
