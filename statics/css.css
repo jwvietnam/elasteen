@@ -13504,7 +13504,7 @@ section[class^="s"]{
 	min-width:130px
 }
 .heading-title{
-	font-family:'Playfair Display', serif;font-size:5rem;color:#ab3e97;font-weight:700;line-height:1.4
+	font-family:'Playfair Display', serif;color:#ab3e97;font-weight:700;line-height:1.4
 }
 .zalo-chat-widget{
 	bottom:85px !important;right:20px !important
@@ -14532,11 +14532,41 @@ section[class^="s"]{
 	#section9,#section10,#section11,#section12,#section13,#section14,#section15,#section16{
 	width:auto;float:none;position:relative;z-index:999;float:left;padding:20px 15px
 }
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    width: 100%;
+}
 .s1 .heading-title, .s1 .heading-title em,.s1 p.text2{
 	font-size: 2.5rem;
 }
 .s1 .product img {
     padding-top: 17rem;
+}
+.s2 .heading-title{
+	font-size:1.5rem;
+}
+.s2 .heading-title span{
+	font-size:2.5rem;
+}
+.s2 .col-md-6 img{
+	height: 205px;
+}
+.s2 .col-right{
+	font-size: 1.3rem;
+}
+.s3 .head-wrap p em{
+	font-size: 1.3rem;
+}
+.s3 .heading-title{
+	font-size: 3.5rem;
+}
+.s3 .content-wrap .head p{
+	margin-top: 0;
+}
+.s3 ul li, .s3 ul li span{
+	font-size: 1.5rem;
+}
+.s3 ul li{
+	background-size: 26px;
 }
 
 }
