@@ -14435,6 +14435,9 @@ section[class^="s"]{
 .s2 .col-right, .s2 .col-right span{
 	font-size: 1.8rem;
 }
+.s2 .col-md-6 img{
+	height: 341px;
+}
 .s3 .head h3{
 	font-size:2.5rem
 }
