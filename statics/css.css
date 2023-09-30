@@ -13905,9 +13905,6 @@ section[class^="s"]{
 .s11 .logo{
 	margin-top:15rem
 }
-.s11 .content-wrap{
-	margin-top:27rem
-}
 .s11 .heading-title{
 	text-transform:uppercase;font-size:4rem
 }
@@ -14375,6 +14372,9 @@ section[class^="s"]{
 .s5{
 	min-height:904px
 }
+.s11 .content-wrap{
+	margin-top:27rem
+}
 .s20 .container{
 	width: 1600px;
 }
@@ -14495,7 +14495,7 @@ section[class^="s"]{
 	width:75%;margin:0 auto
 }
 .s11 .content-wrap{
-	margin-top:16rem
+	margin-top:7rem
 }
 .s13 .logo{
 	margin-top:2rem
@@ -14572,7 +14572,10 @@ section[class^="s"]{
 	width: 600px;
 	margin: auto;
 }
-.post-body .s20 h4{
+.s10 .heading-title{
+	font-size: 2rem;
+}
+.s20 h4{
 	margin: 0em 0 0.5em 0;
 }
 }
