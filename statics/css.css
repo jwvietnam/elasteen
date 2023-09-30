@@ -14670,6 +14670,9 @@ section h1{
 .s1 .tagline.tag3{
 	right:10%;bottom:29%
 }
+.s2 .col-md-6 img{
+	height: unset;
+}
 .s3{
 	
 }
