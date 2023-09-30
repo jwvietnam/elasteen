@@ -13821,9 +13821,7 @@ section[class^="s"]{
 	background-image:url(/statics/img/bg/bg5.jpg);background-repeat:no-repeat;background-color:#fef1df;
 	font-size: 3rem;
 }
-.s2 .content-wrap{
-	width: 1200px;
-}
+
 .s2 .heading-title{
 	color:unset;font-weight:400;font-size:3rem
 }
@@ -14342,6 +14340,7 @@ section[class^="s"]{
 	width:100%;
 	margin:11rem;
 }
+
 .s2 .col-left{
 	padding: 2rem 0;
 }
@@ -14365,7 +14364,7 @@ section[class^="s"]{
 .s2{
 	font-size: 3rem;
 }
-.s2 .content-wrap{
+.s2 .container{
 	width: unset;
 }
 .s2 .col-md-7 img{
@@ -14818,7 +14817,9 @@ section h1{
 	font-size:1.8rem
 }
 .s2 .heading-title span{
-	font-size:4rem;display:block;margin-top:-10px
+	font-size:3rem;
+	display:block;
+	margin-top:-10px
 }
 .s2 .head .title-h,.s2 .head .title-h em,.s2 .head .title-h b,.s2 .head .title-h span{
 	font-size:2.5rem
