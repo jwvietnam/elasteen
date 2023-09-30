@@ -14342,11 +14342,18 @@ section[class^="s"]{
 	width:100%;
 	margin:11rem;
 }
+.s2 .col-left{
+	padding: 2rem 0;
+}
+.s2 .col-left img{
+	padding-left: 29rem;
+}
 .s2 .col-right{
-	font-size: 2rem;
+	font-size: 2.5rem;
+    padding: 2rem 0;
 }
 .s2 .col-right span{
-	font-size: 2rem;
+	font-size: 2.3rem;
     text-transform: uppercase;
 }
 .s3{
