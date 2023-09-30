@@ -13137,21 +13137,7 @@ ul.tp-elasteen-vien li{
 .home #video #icon-close:hover{
 	cursor:pointer;opacity:.75
 }
-@media (max-width:1200px){
-	#section9,#section10,#section11,#section12,#section13,#section14,#section15,#section16{
-	width:auto;float:none;position:relative;z-index:999;float:left;padding:20px 15px
-}
 
-}
-.zalo-chat-widget{
-	bottom:85px !important;right:20px !important
-}
-.top_window{
-	bottom:60px;right:20px
-}
-.fb_dialog{
-	bottom:10pt !important
-}
 @media (max-width:767px){
 	header{
 	height:0
@@ -13519,6 +13505,15 @@ section[class^="s"]{
 }
 .heading-title{
 	font-family:'Playfair Display', serif;font-size:5rem;color:#ab3e97;font-weight:700;line-height:1.4
+}
+.zalo-chat-widget{
+	bottom:85px !important;right:20px !important
+}
+.top_window{
+	bottom:60px;right:20px
+}
+.fb_dialog{
+	bottom:10pt !important
 }
 .s1{
 	width:100%;float:left;margin-top:-2px;margin-bottom:0;background-image:url(/statics/img/bg/bg1.webp);background-repeat:no-repeat;background-position:center;background-size:cover
@@ -14531,6 +14526,18 @@ section[class^="s"]{
 	margin-top: 0;
 }
 
+
+}
+@media (max-width:1200px){
+	#section9,#section10,#section11,#section12,#section13,#section14,#section15,#section16{
+	width:auto;float:none;position:relative;z-index:999;float:left;padding:20px 15px
+}
+.s1 .heading-title, .s1 .heading-title em,.s1 p.text2{
+	font-size: 2.5rem;
+}
+.s1 .product img {
+    padding-top: 17rem;
+}
 
 }
 @media (max-width:768px){
