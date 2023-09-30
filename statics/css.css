@@ -13563,6 +13563,37 @@ section[class^="s"]{
 .s1 .content-wrap{
 	margin-top:6rem
 }
+.s2{
+	background-image:url(/statics/img/bg/bg5.jpg);background-repeat:no-repeat;background-color:#fef1df;
+	font-size: 3rem;
+}
+.s2 .col-right span{
+    text-transform: uppercase;
+}
+.s2 .heading-title{
+	color:unset;font-weight:400;font-size:3rem
+}
+.s2 .heading-title span{
+	color:#ab3e97;font-family:'Playfair Display', serif;font-size:5rem
+}
+.s2 .content-wrap{
+	text-align:center;margin-top:10rem
+}
+.s2 .head .title-h,.s2 .head .title-h em,.s2 .head .title-h b,.s2 .head .title-h span{
+	color:#ab3e97;font-size:6rem
+}
+.s2 .head .title-h span{
+	display:block;font-size:2.5rem;text-transform:uppercase;margin-top:-15px
+}
+.s2 .desc{
+	margin:5rem 3rem
+}
+.s2 .desc p{
+	margin-bottom:15px
+}
+.s2 .desc .p1{
+	font-size:1.8rem;font-weight:700;line-height:1.2
+}
 .s3{
 	position:relative;width:100%;float:left;background-image:url(/statics/img/bg/bg2.webp);background-repeat:no-repeat;background-position:center;background-size:cover
 }
@@ -13817,35 +13848,7 @@ section[class^="s"]{
 .s5 .content-wrap ul li{
 	list-style:disc;margin-bottom:10px
 }
-.s2{
-	background-image:url(/statics/img/bg/bg5.jpg);background-repeat:no-repeat;background-color:#fef1df;
-	font-size: 3rem;
-}
 
-.s2 .heading-title{
-	color:unset;font-weight:400;font-size:3rem
-}
-.s2 .heading-title span{
-	color:#ab3e97;font-family:'Playfair Display', serif;font-size:5rem
-}
-.s2 .content-wrap{
-	text-align:center;margin-top:10rem
-}
-.s2 .head .title-h,.s2 .head .title-h em,.s2 .head .title-h b,.s2 .head .title-h span{
-	color:#ab3e97;font-size:6rem
-}
-.s2 .head .title-h span{
-	display:block;font-size:2.5rem;text-transform:uppercase;margin-top:-15px
-}
-.s2 .desc{
-	margin:5rem 3rem
-}
-.s2 .desc p{
-	margin-bottom:15px
-}
-.s2 .desc .p1{
-	font-size:1.8rem;font-weight:700;line-height:1.2
-}
 .s6 .container,.s8 .container,.s9 .container{
 	padding-bottom:60px
 }
@@ -14323,6 +14326,7 @@ section[class^="s"]{
 .s21 .desc span{
 	color:#ab3e97
 }
+
 @media (min-width:1600px){
 .container-fluid{
 	max-width:1400px;margin:0 auto
@@ -14353,7 +14357,6 @@ section[class^="s"]{
 }
 .s2 .col-right span{
 	font-size: 2.3rem;
-    text-transform: uppercase;
 }
 .s3{
 	min-height:964px
@@ -15152,7 +15155,6 @@ section h1{
 .s21 .desc,.s21 .desc span{
 	font-size:18px
 }
-
 }
 @media (max-width:420px){
 	#wpsl-checkbox-filter li{
