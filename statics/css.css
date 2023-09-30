@@ -14342,6 +14342,13 @@ section[class^="s"]{
 	width:100%;
 	margin:11rem;
 }
+.s2 .col-right{
+	font-size: 2rem;
+}
+.s2 .col-right span{
+	font-size: 2rem;
+    text-transform: uppercase;
+}
 .s3{
 	min-height:964px
 }
@@ -14698,7 +14705,8 @@ section h1{
 	font-size:3.5rem;margin-top:-9px
 }
 .s5 h2.h-title,.s5 h2.h-title span,.s5 h2.h-title b{
-	font-size:2rem
+	font-size: 1.5rem;
+    line-height: 1.9rem;
 }
 .s5 .heading-title span img{
 	right:-83px;width:80px;height:auto
@@ -14850,6 +14858,9 @@ section h1{
 .s5 .tagline.tag3{
 	right:6%;bottom:28%
 }
+.s5 .btn-cta{
+	margin-bottom: 15px;
+} 
 .s6 .head-t,.s8 .head-t,.s9 .head-t{
 	width:100%;height:130px;background-image:url(/statics/img/bg/pattern12-mobile.png);background-size:contain;background-position:center
 }
