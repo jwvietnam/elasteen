@@ -13571,10 +13571,10 @@ section[class^="s"]{
     text-transform: uppercase;
 }
 .s2 .heading-title{
-	color:unset;font-weight:400;font-size:3rem
+	color:unset;font-weight:400;
 }
 .s2 .heading-title span{
-	color:#ab3e97;font-family:'Playfair Display', serif;font-size:5rem
+	color:#ab3e97;font-family:'Playfair Display', serif;
 }
 .s2 .content-wrap{
 	text-align:center;margin-top:10rem
@@ -14344,7 +14344,12 @@ section[class^="s"]{
 	width:100%;
 	margin:11rem;
 }
-
+.s2 .heading-title{
+	font-size:3.5rem;
+}
+.s2 .heading-title span{
+	font-size:5rem;
+}
 .s2 .col-left{
 	padding: 2rem 0;
 }
@@ -14421,6 +14426,15 @@ section[class^="s"]{
 }
 .s1 .tagline.tag3{
 	right:11%;bottom:29%
+}
+.s2 .heading-title{
+	font-size:2.7rem;
+}
+.s2 .heading-title span{
+	font-size:3.1rem;
+}
+.s2 .col-right, .s2 .col-right span{
+	font-size: 1.8rem;
 }
 .s3 .head h3{
 	font-size:2.5rem
