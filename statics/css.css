@@ -14572,6 +14572,9 @@ section[class^="s"]{
 	width: 600px;
 	margin: auto;
 }
+.post-body.s20 h4{
+	margin: 0em 0 0.5em 0;
+}
 }
 @media (max-width:768px){
 section *{
