@@ -14528,7 +14528,7 @@ section[class^="s"]{
 
 
 }
-@media (max-width:1200px){
+@media only screen and (min-width:769) and (max-width:1200px){
 	#section9,#section10,#section11,#section12,#section13,#section14,#section15,#section16{
 	width:auto;float:none;position:relative;z-index:999;float:left;padding:20px 15px
 }
