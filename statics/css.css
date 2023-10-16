@@ -15237,3 +15237,7 @@ section h1{
     font-size: 2.1rem;
 }
 }
+#warning img {
+    width: 100px;
+    height: 100px;
+    margin: auto;
