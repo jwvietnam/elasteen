@@ -14334,7 +14334,10 @@ section[class^="s"]{
 }
 .s1 .product img {
 	width:100%;
-	margin:11rem;
+	margin:7rem;
+}
+.s1 .heading-title{
+	margin-top:20px;font-size:4rem;margin-bottom:-15px
 }
 .s2 .container{
 	max-width: 1600px;
