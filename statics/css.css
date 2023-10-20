@@ -13488,9 +13488,6 @@ video{
 #content .col-full,#breadcrumb{
 	margin:0;padding:0
 }
-.left_avatar_detail,.right_avatar_detail,.kk-star-ratings{
-	display:none
-}
 section[class^="s"]{
 	width:100%;float:left;clear:both
 }
