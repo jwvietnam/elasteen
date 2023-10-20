@@ -6544,7 +6544,7 @@ footer{
 	color:#b2b2b2;width:100%;text-transform:uppercase;margin-bottom:15px;font-size:16px
 }
 .name_company p{
-	color:#b2b2b2 !important;line-height:20px
+	line-height:20px
 }
 .name_company .social{
 	width:100%;margin:15px 0
@@ -12667,7 +12667,7 @@ div.wpcf7-validation-errors{
 	display:inline;color:inherit;font-weight:400
 }
 .name_company h4{
-	color:#b2b2b2;width:100%;text-transform:uppercase;margin-bottom:15px;font-size:16px;font-weight: 700;
+	width:100%;text-transform:uppercase;margin-bottom:15px;font-size:16px;font-weight: 700;
 }
 .form_contact h4{
 	float:left;width:100%;color:#b2b2b2;text-transform:uppercase;margin-bottom:5px;font-size:16px
