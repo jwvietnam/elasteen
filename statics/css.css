@@ -6538,7 +6538,7 @@ footer{
 	float:left;width:100%;background:#000;padding:20px 0 0
 }
 .name_company{
-	float:left;width:55%
+
 }
 .name_company h1{
 	color:#b2b2b2;width:100%;text-transform:uppercase;margin-bottom:15px;font-size:16px
@@ -13706,7 +13706,9 @@ section[class^="s"]{
 	color:#999
 }
 .s4 .btn-see-more a:hover{
-	text-decoration:underline !important
+	text-decoration:underline !important;
+	background: ##fff4ff;
+	color: #a1a1a1!important;
 }
 .s4 .img img{
 	display:block;width:100%;height:auto
