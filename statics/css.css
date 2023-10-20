@@ -15200,6 +15200,7 @@ section h1{
 }
 .s20 .item{
 	position: relative;
+	max-width: 334px;
 }
 .s20 .item .box{
 	border-radius:10px;
