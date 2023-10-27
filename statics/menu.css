@@ -1,5 +1,11 @@
+a.button,
+a.btn-cart {
+  color: #fff;
+  background: #bb35ae;
+}
+
 a.button:hover,
-.btn-cart:hover {
+a.btn-cart:hover {
   color: #000000;
   text-decoration: unset !important;
   background: #f2bb2c;

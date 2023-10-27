@@ -13492,7 +13492,7 @@ section[class^="s"]{
 	width:100%;float:left;clear:both
 }
 .btn-cta{
-	background:#ab3e97;color:#fff;border-radius:12px;padding:8px 30px;text-align:center;margin-top:15px;display:inline-block;font-size:1.5rem
+	border-radius:12px;padding:8px 30px;text-align:center;margin-top:15px;display:inline-block;font-size:1.5rem
 }
 .btn-cta:hover{
 	opacity:.85
