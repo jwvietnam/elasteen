@@ -6208,7 +6208,7 @@ h1,h2,h3,h4,h5,h6{
 }
 header{
 	height:63px;
-	background:#000000dd;z-index:9999999999999999;top:0;left:0;webkit-transition:all .5s ease;-moz-transition:all .5s ease;-o-transition:all .5s ease;-ms-transition:all .5s ease;transition:all .5s ease;width:100%;position:relative
+	/*background:#000000dd*/;z-index:9999999999999999;top:0;left:0;webkit-transition:all .5s ease;-moz-transition:all .5s ease;-o-transition:all .5s ease;-ms-transition:all .5s ease;transition:all .5s ease;width:100%;position:relative
 }
 header .menu_mobile{
 	display:none;position:absolute;right:15px;top:13px
